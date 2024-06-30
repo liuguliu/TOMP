@@ -1,0 +1,75 @@
+Returns 1 results elapsed time: 403 1
+memory usage:39743K/39747K + 38903K/38903K
+
+Returns 1 results elapsed time: 654 2
+memory usage:39890K/39895K + 39055K/39055K
+
+Returns 1 results elapsed time: 700 3
+memory usage:39890K/39895K + 39055K/39055K
+
+Returns 1 results elapsed time: 860 4
+memory usage:39890K/39895K + 39055K/39055K
+
+Returns 1 results elapsed time: 1755 5
+memory usage:40038K/40042K + 39211K/39211K
+
+Returns 1 results elapsed time: 1805 6
+memory usage:40038K/40042K + 39211K/39211K
+
+Returns 1 results elapsed time: 1961 7
+memory usage:40222K/40226K + 39415K/39415K
+
+Returns 1 results elapsed time: 2283 8
+memory usage:40615K/40620K + 39821K/39821K
+
+Returns 1 results elapsed time: 2442 9
+memory usage:40615K/40620K + 39821K/39821K
+
+Returns 1 results elapsed time: 2472 10
+memory usage:40615K/40620K + 39821K/39821K
+
+Returns 1 results elapsed time: 2875 11
+memory usage:40624K/40628K + 39821K/39821K
+
+Returns 1 results elapsed time: 3080 12
+memory usage:40693K/40697K + 39899K/39899K
+
+Returns 1 results elapsed time: 3199 13
+memory usage:40693K/40697K + 39899K/39899K
+
+Returns 1 results elapsed time: 3485 14
+memory usage:40951K/40955K + 40169K/40169K
+
+Returns 1 results elapsed time: 3576 15
+memory usage:40955K/40960K + 40169K/40169K
+
+Returns 1 results elapsed time: 3643 16
+memory usage:40955K/40960K + 40169K/40169K
+
+Returns 1 results elapsed time: 3731 17
+memory usage:40955K/40960K + 40169K/40169K
+
+Returns 1 results elapsed time: 3919 18
+memory usage:41029K/41033K + 40247K/40247K
+
+Returns 1 results elapsed time: 4094 19
+memory usage:41177K/41181K + 40402K/40402K
+
+Returns 1 results elapsed time: 4153 20
+memory usage:41177K/41181K + 40402K/40402K
+
+Returns 1 results elapsed time: 4193 21
+memory usage:41177K/41181K + 40402K/40402K
+
+Returns 1 results elapsed time: 4256 22
+memory usage:41177K/41181K + 40402K/40402K
+
+Returns 1 results elapsed time: 4685 23
+memory usage:41402K/41406K + 40640K/40640K
+
+Returns 1 results elapsed time: 4830 24
+memory usage:41476K/41480K + 40718K/40718K
+
+End of program! elapsed time: 5295 24
+memory usage:41791K/41795K + 41062K/41062K
+

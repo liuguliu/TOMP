@@ -1,0 +1,6 @@
+Returns 1 results elapsed time: 225 1
+memory usage:39403K/39407K + 38764K/38764K
+
+End of program! elapsed time: 515 1
+memory usage:39907K/39911K + 39075K/39075K
+
