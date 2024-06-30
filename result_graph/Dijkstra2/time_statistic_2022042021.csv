@@ -1,0 +1,13 @@
+algo,pattern,num,time,data,memory,realmemory
+V4.7,ex4_2,5,78227,soc-Epinions1,57708KB,
+V4.7,ex4_2,30,131944,soc-Slashdot,91553KB,
+V4.5,ex4_2,5,245,soc-Epinions1,39043KB,39038KB
+V4.5,ex4_2,30,756,soc-Slashdot,68001KB,67997KB
+V4.4,ex4_2,5,961,soc-Epinions1,39817KB,39813KB
+V4.4,ex4_2,30,2797,soc-Slashdot,68288KB,68280KB
+V4.7,ex4_4,122,129282,soc-yEpinions1,59981KB,
+V4.7,ex4_4,238,366055,soc-zSlashdot,102113KB,
+V4.4,ex4_4,131,121854,soc-yEpinions1,167792KB,72892KB
+V4.4,ex4_4,243,345784,soc-zSlashdot,182829KB,150347KB
+V4.5,ex4_4,131,3080,soc-yEpinions1,39800KB,39796KB
+V4.5,ex4_4,243,8689,soc-zSlashdot,71786KB,71782KB
