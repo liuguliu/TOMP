@@ -1,0 +1,66 @@
+Returns 1 results elapsed time: 41267 1
+memory usage:105193K/209145K + 121720K/225083K
+
+Returns 1 results elapsed time: 106266 2
+memory usage:112549K/264974K + 120205K/283967K
+
+Returns 1 results elapsed time: 124983 3
+memory usage:112697K/264974K + 119570K/283967K
+
+Returns 1 results elapsed time: 150783 4
+memory usage:119881K/264974K + 134459K/283967K
+
+Returns 1 results elapsed time: 176322 5
+memory usage:126869K/264974K + 140201K/283967K
+
+Returns 1 results elapsed time: 202550 6
+memory usage:122351K/264974K + 128491K/283967K
+
+Returns 1 results elapsed time: 261506 7
+memory usage:240508K/288604K + 258662K/309534K
+
+Returns 1 results elapsed time: 269391 8
+memory usage:235773K/288604K + 253145K/309534K
+
+Returns 1 results elapsed time: 302271 9
+memory usage:218341K/288604K + 236765K/309534K
+
+Returns 1 results elapsed time: 315026 10
+memory usage:219611K/288604K + 237850K/309534K
+
+Returns 1 results elapsed time: 362499 11
+memory usage:213667K/288604K + 228667K/309534K
+
+Returns 1 results elapsed time: 389430 12
+memory usage:213983K/288604K + 228732K/309534K
+
+Returns 1 results elapsed time: 414007 13
+memory usage:214151K/288604K + 228732K/309534K
+
+Returns 1 results elapsed time: 419025 14
+memory usage:214339K/288604K + 228732K/309534K
+
+Returns 1 results elapsed time: 429648 15
+memory usage:214560K/288604K + 228732K/309534K
+
+Returns 1 results elapsed time: 440295 16
+memory usage:212746K/288604K + 226533K/309534K
+
+Returns 1 results elapsed time: 463443 17
+memory usage:212873K/288604K + 226533K/309534K
+
+Returns 1 results elapsed time: 486807 18
+memory usage:212979K/288604K + 226533K/309534K
+
+Returns 1 results elapsed time: 508181 19
+memory usage:212987K/288604K + 226541K/309534K
+
+Returns 1 results elapsed time: 558734 20
+memory usage:213327K/288604K + 226549K/309534K
+
+Returns 1 results elapsed time: 562101 21
+memory usage:213344K/288604K + 226549K/309534K
+
+End of program! elapsed time: 698395 21
+memory usage:213504K/288604K + 226586K/309534K
+

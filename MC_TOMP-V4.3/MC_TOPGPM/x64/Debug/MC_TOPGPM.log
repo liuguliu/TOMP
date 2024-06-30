@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (MC_NTSS_MN4.vcxproj, MC_NTSS_MN41.vcxproj, MC_TOPGPM_FUZZY.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TopologicalOrder_matching.cpp
+e:\code\experiment3\compare2\mfc_ntss-v4.3\mc_topgpm\topologicalorder_matching.cpp(172): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\code\experiment3\compare2\mfc_ntss-v4.3\mc_topgpm\topologicalorder_matching.cpp(307): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\code\experiment3\compare2\mfc_ntss-v4.3\mc_topgpm\topologicalorder_matching.cpp(664): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  MC_TOPGPM.vcxproj -> E:\code\experiment3\compare2\MFC_NTSS-V4.3\x64\Debug\MC_NTSS_MN43.exe
+  MC_TOPGPM.vcxproj -> E:\code\experiment3\compare2\MFC_NTSS-V4.3\x64\Debug\MC_NTSS_MN43.pdb (Full PDB)
