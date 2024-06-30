@@ -1,0 +1,90 @@
+Returns 1 results elapsed time: 5335 1
+memory usage:2082533K/2082537K + 2207674K/2207674K
+
+Returns 1 results elapsed time: 11948 2
+memory usage:2086428K/2086432K + 2210594K/2210594K
+
+Returns 1 results elapsed time: 14764 3
+memory usage:2088075K/2088079K + 2212032K/2212032K
+
+Returns 1 results elapsed time: 16864 4
+memory usage:2089762K/2089766K + 2213097K/2213097K
+
+Returns 1 results elapsed time: 16926 5
+memory usage:2089771K/2089775K + 2213097K/2213097K
+
+Returns 1 results elapsed time: 17379 6
+memory usage:2090160K/2090164K + 2213482K/2213482K
+
+Returns 1 results elapsed time: 18047 7
+memory usage:2090536K/2090541K + 2213720K/2213720K
+
+Returns 1 results elapsed time: 18340 8
+memory usage:2090594K/2090598K + 2213793K/2213793K
+
+Returns 1 results elapsed time: 18704 9
+memory usage:2090659K/2090663K + 2213867K/2213867K
+
+Returns 1 results elapsed time: 18898 10
+memory usage:2090999K/2091003K + 2214117K/2214117K
+
+Returns 1 results elapsed time: 19362 11
+memory usage:2091114K/2091118K + 2214268K/2214268K
+
+Returns 1 results elapsed time: 19529 12
+memory usage:2091442K/2091446K + 2214420K/2214420K
+
+Returns 1 results elapsed time: 20627 13
+memory usage:2092109K/2092113K + 2215026K/2215026K
+
+Returns 1 results elapsed time: 20942 14
+memory usage:2092150K/2092154K + 2215026K/2215026K
+
+Returns 1 results elapsed time: 21024 15
+memory usage:2092175K/2092179K + 2215026K/2215026K
+
+Returns 1 results elapsed time: 21168 16
+memory usage:2092257K/2092261K + 2215178K/2215178K
+
+Returns 1 results elapsed time: 22422 17
+memory usage:2093121K/2093125K + 2215636K/2215636K
+
+Returns 1 results elapsed time: 22928 18
+memory usage:2093318K/2093322K + 2215862K/2215862K
+
+Returns 1 results elapsed time: 23559 19
+memory usage:2093924K/2093928K + 2216398K/2216398K
+
+Returns 1 results elapsed time: 24570 20
+memory usage:2094424K/2094428K + 2216861K/2216861K
+
+Returns 1 results elapsed time: 25179 21
+memory usage:2094854K/2094858K + 2217238K/2217238K
+
+Returns 1 results elapsed time: 25260 22
+memory usage:2094911K/2094915K + 2217312K/2217312K
+
+Returns 1 results elapsed time: 25872 23
+memory usage:2095419K/2095423K + 2217693K/2217693K
+
+Returns 1 results elapsed time: 26608 24
+memory usage:2095902K/2095906K + 2218147K/2218147K
+
+Returns 1 results elapsed time: 29625 25
+memory usage:2097799K/2097803K + 2219843K/2219843K
+
+Returns 1 results elapsed time: 30733 26
+memory usage:2098647K/2098651K + 2220527K/2220527K
+
+Returns 1 results elapsed time: 31404 27
+memory usage:2099073K/2099077K + 2220969K/2220969K
+
+Returns 1 results elapsed time: 49967 28
+memory usage:2112069K/2112073K + 2233720K/2233720K
+
+Returns 1 results elapsed time: 53891 29
+memory usage:2114699K/2114703K + 2236506K/2236506K
+
+End of program! elapsed time: 66420 29
+memory usage:2124984K/2124988K + 2247131K/2247131K
+

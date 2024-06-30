@@ -1,0 +1,2490 @@
+Returns 1 results elapsed time: 295 1
+memory usage:4617043K/4617048K + 4897955K/4897955K
+
+Returns 1 results elapsed time: 534 2
+memory usage:4617072K/4617076K + 4897955K/4897955K
+
+Returns 1 results elapsed time: 1547 3
+memory usage:4620693K/4620697K + 4901425K/4901425K
+
+Returns 1 results elapsed time: 2071 4
+memory usage:4620713K/4620718K + 4901425K/4901425K
+
+Returns 1 results elapsed time: 2406 5
+memory usage:4620767K/4620771K + 4901425K/4901425K
+
+Returns 1 results elapsed time: 3477 6
+memory usage:4620787K/4620791K + 4901425K/4901425K
+
+Returns 1 results elapsed time: 3560 7
+memory usage:4620840K/4620845K + 4901425K/4901425K
+
+Returns 1 results elapsed time: 3624 8
+memory usage:4620840K/4620845K + 4901425K/4901425K
+
+Returns 1 results elapsed time: 4378 9
+memory usage:4620894K/4620898K + 4901425K/4901425K
+
+Returns 1 results elapsed time: 4393 10
+memory usage:4620894K/4620898K + 4901425K/4901425K
+
+Returns 1 results elapsed time: 4429 11
+memory usage:4620894K/4620898K + 4901425K/4901425K
+
+Returns 1 results elapsed time: 5209 12
+memory usage:4621238K/4621242K + 4901425K/4901425K
+
+Returns 1 results elapsed time: 5343 13
+memory usage:4621275K/4621279K + 4901425K/4901425K
+
+Returns 1 results elapsed time: 6134 14
+memory usage:4621332K/4621336K + 4901425K/4901425K
+
+Returns 1 results elapsed time: 6664 15
+memory usage:4621328K/4621336K + 4901425K/4901425K
+
+Returns 1 results elapsed time: 6923 16
+memory usage:4621598K/4621602K + 4901711K/4901711K
+
+Returns 1 results elapsed time: 7020 17
+memory usage:4621598K/4621602K + 4901711K/4901711K
+
+Returns 1 results elapsed time: 7102 18
+memory usage:4621598K/4621602K + 4901711K/4901711K
+
+Returns 1 results elapsed time: 7465 19
+memory usage:4621602K/4621606K + 4901711K/4901711K
+
+Returns 1 results elapsed time: 7560 20
+memory usage:4621602K/4621606K + 4901711K/4901711K
+
+Returns 1 results elapsed time: 8400 21
+memory usage:4621709K/4621713K + 4901711K/4901711K
+
+Returns 1 results elapsed time: 8531 22
+memory usage:4621709K/4621713K + 4901711K/4901711K
+
+Returns 1 results elapsed time: 8916 23
+memory usage:4623937K/4623941K + 4904042K/4904042K
+
+Returns 1 results elapsed time: 9263 24
+memory usage:4628119K/4628123K + 4908339K/4908339K
+
+Returns 1 results elapsed time: 10228 25
+memory usage:4628566K/4628570K + 4908806K/4908806K
+
+Returns 1 results elapsed time: 10708 26
+memory usage:4628582K/4628586K + 4908806K/4908806K
+
+Returns 1 results elapsed time: 11176 27
+memory usage:4628606K/4628611K + 4908810K/4908810K
+
+Returns 1 results elapsed time: 11672 28
+memory usage:4628676K/4628701K + 4908810K/4908810K
+
+Returns 1 results elapsed time: 12322 29
+memory usage:4628697K/4628701K + 4908810K/4908810K
+
+Returns 1 results elapsed time: 12658 30
+memory usage:4628750K/4628754K + 4908810K/4908810K
+
+Returns 1 results elapsed time: 12966 31
+memory usage:4628750K/4628754K + 4908810K/4908810K
+
+Returns 1 results elapsed time: 13607 32
+memory usage:4628750K/4628754K + 4908810K/4908810K
+
+Returns 1 results elapsed time: 15231 33
+memory usage:4638834K/4638838K + 4919275K/4919275K
+
+Returns 1 results elapsed time: 16844 34
+memory usage:4638838K/4638842K + 4919275K/4919275K
+
+Returns 1 results elapsed time: 17349 35
+memory usage:4638838K/4638842K + 4919275K/4919275K
+
+Returns 1 results elapsed time: 18770 36
+memory usage:4638887K/4638892K + 4919275K/4919275K
+
+Returns 1 results elapsed time: 19249 37
+memory usage:4639014K/4639019K + 4919275K/4919275K
+
+Returns 1 results elapsed time: 20009 38
+memory usage:4641095K/4641099K + 4921384K/4921384K
+
+Returns 1 results elapsed time: 21121 39
+memory usage:4641095K/4641099K + 4921384K/4921384K
+
+Returns 1 results elapsed time: 23548 40
+memory usage:4643016K/4643020K + 4923465K/4923465K
+
+Returns 1 results elapsed time: 24008 41
+memory usage:4643262K/4643266K + 4923465K/4923465K
+
+Returns 1 results elapsed time: 24745 42
+memory usage:4643287K/4643291K + 4923465K/4923465K
+
+Returns 1 results elapsed time: 25511 43
+memory usage:4643364K/4643368K + 4923465K/4923465K
+
+Returns 1 results elapsed time: 25669 44
+memory usage:4643418K/4643422K + 4923465K/4923465K
+
+Returns 1 results elapsed time: 26757 45
+memory usage:4648861K/4648865K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 27038 46
+memory usage:4648865K/4648869K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 27585 47
+memory usage:4648873K/4648878K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 27851 48
+memory usage:4648873K/4648878K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 28279 49
+memory usage:4648873K/4648878K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 28777 50
+memory usage:4648878K/4648882K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 29213 51
+memory usage:4648984K/4648988K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 29587 52
+memory usage:4648984K/4648988K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 29887 53
+memory usage:4649091K/4649095K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 30058 54
+memory usage:4649177K/4649181K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 30426 55
+memory usage:4649181K/4649185K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 30874 56
+memory usage:4649271K/4649275K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 31133 57
+memory usage:4649287K/4649291K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 31437 58
+memory usage:4649287K/4649291K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 31783 59
+memory usage:4649287K/4649291K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 32001 60
+memory usage:4649304K/4649308K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 32610 61
+memory usage:4649357K/4649361K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 32973 62
+memory usage:4649410K/4649414K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 33063 63
+memory usage:4649410K/4649414K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 33599 64
+memory usage:4649467K/4649504K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 34011 65
+memory usage:4649476K/4649504K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 34282 66
+memory usage:4649476K/4649504K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 34814 67
+memory usage:4649480K/4649504K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 35315 68
+memory usage:4649496K/4649504K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 35796 69
+memory usage:4649496K/4649504K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 36472 70
+memory usage:4649500K/4649504K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 36606 71
+memory usage:4649500K/4649504K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 36689 72
+memory usage:4649590K/4649594K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 37622 73
+memory usage:4649603K/4649611K + 4929110K/4929110K
+
+Returns 1 results elapsed time: 38895 74
+memory usage:4653834K/4653838K + 4933570K/4933570K
+
+Returns 1 results elapsed time: 39224 75
+memory usage:4653858K/4653862K + 4933570K/4933570K
+
+Returns 1 results elapsed time: 39652 76
+memory usage:4653858K/4653862K + 4933570K/4933570K
+
+Returns 1 results elapsed time: 40115 77
+memory usage:4653858K/4653862K + 4933570K/4933570K
+
+Returns 1 results elapsed time: 40536 78
+memory usage:4653862K/4653867K + 4933570K/4933570K
+
+Returns 1 results elapsed time: 40605 79
+memory usage:4653862K/4653867K + 4933570K/4933570K
+
+Returns 1 results elapsed time: 40701 80
+memory usage:4653862K/4653867K + 4933570K/4933570K
+
+Returns 1 results elapsed time: 41029 81
+memory usage:4653862K/4653867K + 4933570K/4933570K
+
+Returns 1 results elapsed time: 41361 82
+memory usage:4653867K/4653871K + 4933570K/4933570K
+
+Returns 1 results elapsed time: 41643 83
+memory usage:4653871K/4653875K + 4933570K/4933570K
+
+Returns 1 results elapsed time: 41808 84
+memory usage:4653826K/4653875K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 42202 85
+memory usage:4653826K/4653875K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 42506 86
+memory usage:4653932K/4653936K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 43146 87
+memory usage:4653932K/4653936K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 43350 88
+memory usage:4654022K/4654026K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 43867 89
+memory usage:4654022K/4654026K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 44141 90
+memory usage:4654039K/4654043K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 44763 91
+memory usage:4654092K/4654096K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 44976 92
+memory usage:4654092K/4654096K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 45124 93
+memory usage:4654092K/4654096K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 46272 94
+memory usage:4654252K/4654256K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 46504 95
+memory usage:4654305K/4654309K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 46865 96
+memory usage:4654305K/4654309K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 47216 97
+memory usage:4654305K/4654309K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 47445 98
+memory usage:4654305K/4654309K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 47506 99
+memory usage:4654428K/4654432K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 47808 100
+memory usage:4654432K/4654436K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 48048 101
+memory usage:4654448K/4654452K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 48286 102
+memory usage:4654448K/4654452K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 48498 103
+memory usage:4654448K/4654452K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 48574 104
+memory usage:4654510K/4654514K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 48888 105
+memory usage:4654514K/4654518K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 49088 106
+memory usage:4654514K/4654518K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 49211 107
+memory usage:4654514K/4654518K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 49276 108
+memory usage:4654514K/4654518K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 49449 109
+memory usage:4654518K/4654522K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 49513 110
+memory usage:4654518K/4654522K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 49573 111
+memory usage:4654518K/4654522K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 49638 112
+memory usage:4654518K/4654522K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 49733 113
+memory usage:4654518K/4654522K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 49793 114
+memory usage:4654518K/4654522K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 50021 115
+memory usage:4654518K/4654522K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 50135 116
+memory usage:4654624K/4654628K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 50434 117
+memory usage:4654624K/4654628K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 50953 118
+memory usage:4654624K/4654628K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 51231 119
+memory usage:4654714K/4654718K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 51639 120
+memory usage:4654837K/4654841K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 51800 121
+memory usage:4654837K/4654841K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 52032 122
+memory usage:4654837K/4654841K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 52213 123
+memory usage:4654927K/4654931K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 52720 124
+memory usage:4654944K/4654948K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 53230 125
+memory usage:4654944K/4654948K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 53536 126
+memory usage:4654944K/4654948K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 54386 127
+memory usage:4655050K/4655054K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 55148 128
+memory usage:4655050K/4655054K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 55418 129
+memory usage:4655157K/4655161K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 55755 130
+memory usage:4655210K/4655214K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 56067 131
+memory usage:4655210K/4655214K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 56400 132
+memory usage:4655210K/4655214K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 56588 133
+memory usage:4655263K/4655267K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 56837 134
+memory usage:4655316K/4655321K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 57185 135
+memory usage:4655513K/4655517K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 57352 136
+memory usage:4655513K/4655517K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 57848 137
+memory usage:4655513K/4655517K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 57894 138
+memory usage:4655513K/4655517K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 57961 139
+memory usage:4655513K/4655517K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 58185 140
+memory usage:4655513K/4655517K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 58503 141
+memory usage:4655513K/4655517K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 58707 142
+memory usage:4655620K/4655624K + 4933484K/4933570K
+
+Returns 1 results elapsed time: 59887 143
+memory usage:4655640K/4655644K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 60087 144
+memory usage:4655779K/4655783K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 60478 145
+memory usage:4655788K/4655792K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 60584 146
+memory usage:4655841K/4655845K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 60749 147
+memory usage:4655841K/4655845K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 61069 148
+memory usage:4655853K/4655857K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 61490 149
+memory usage:4655853K/4655857K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 61995 150
+memory usage:4655906K/4655910K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 62226 151
+memory usage:4655906K/4655910K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 62365 152
+memory usage:4655906K/4655910K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 62967 153
+memory usage:4655947K/4655964K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 63852 154
+memory usage:4655947K/4655964K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 64479 155
+memory usage:4656001K/4656005K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 64783 156
+memory usage:4656144K/4656148K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 65994 157
+memory usage:4656324K/4656328K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 66734 158
+memory usage:4656435K/4656439K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 67573 159
+memory usage:4656431K/4656439K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 67995 160
+memory usage:4656427K/4656439K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 68156 161
+memory usage:4656427K/4656439K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 68922 162
+memory usage:4656504K/4656508K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 69230 163
+memory usage:4656615K/4656619K + 4933488K/4933570K
+
+Returns 1 results elapsed time: 70155 164
+memory usage:4656959K/4656963K + 4933681K/4933681K
+
+Returns 1 results elapsed time: 70385 165
+memory usage:4656959K/4656963K + 4933681K/4933681K
+
+Returns 1 results elapsed time: 70543 166
+memory usage:4656959K/4656963K + 4933681K/4933681K
+
+Returns 1 results elapsed time: 70761 167
+memory usage:4656963K/4656967K + 4933681K/4933681K
+
+Returns 1 results elapsed time: 71005 168
+memory usage:4656979K/4656984K + 4933681K/4933681K
+
+Returns 1 results elapsed time: 71639 169
+memory usage:4656979K/4656984K + 4933681K/4933681K
+
+Returns 1 results elapsed time: 72412 170
+memory usage:4656979K/4656984K + 4933681K/4933681K
+
+Returns 1 results elapsed time: 72607 171
+memory usage:4657012K/4657016K + 4933681K/4933681K
+
+Returns 1 results elapsed time: 72760 172
+memory usage:4657115K/4657119K + 4933681K/4933681K
+
+Returns 1 results elapsed time: 73621 173
+memory usage:4657291K/4657295K + 4933754K/4933754K
+
+Returns 1 results elapsed time: 74490 174
+memory usage:4659179K/4659183K + 4935626K/4935626K
+
+Returns 1 results elapsed time: 74716 175
+memory usage:4659220K/4659224K + 4935626K/4935626K
+
+Returns 1 results elapsed time: 75681 176
+memory usage:4659220K/4659224K + 4935626K/4935626K
+
+Returns 1 results elapsed time: 75949 177
+memory usage:4659220K/4659224K + 4935626K/4935626K
+
+Returns 1 results elapsed time: 76105 178
+memory usage:4659261K/4659265K + 4935626K/4935626K
+
+Returns 1 results elapsed time: 76898 179
+memory usage:4659421K/4659425K + 4935761K/4935761K
+
+Returns 1 results elapsed time: 77095 180
+memory usage:4659621K/4659625K + 4935983K/4935983K
+
+Returns 1 results elapsed time: 77229 181
+memory usage:4659630K/4659634K + 4935983K/4935983K
+
+Returns 1 results elapsed time: 77290 182
+memory usage:4659740K/4659744K + 4935983K/4935983K
+
+Returns 1 results elapsed time: 77639 183
+memory usage:4659752K/4659757K + 4935983K/4935983K
+
+Returns 1 results elapsed time: 77952 184
+memory usage:4660072K/4660076K + 4936278K/4936278K
+
+Returns 1 results elapsed time: 78766 185
+memory usage:4660441K/4660445K + 4936622K/4936622K
+
+Returns 1 results elapsed time: 78849 186
+memory usage:4660527K/4660531K + 4936622K/4936622K
+
+Returns 1 results elapsed time: 79992 187
+memory usage:4661301K/4661305K + 4937416K/4937416K
+
+Returns 1 results elapsed time: 80807 188
+memory usage:4661407K/4661411K + 4937416K/4937416K
+
+Returns 1 results elapsed time: 81447 189
+memory usage:4661407K/4661411K + 4937416K/4937416K
+
+Returns 1 results elapsed time: 81560 190
+memory usage:4661735K/4661739K + 4937728K/4937728K
+
+Returns 1 results elapsed time: 81805 191
+memory usage:4664332K/4664336K + 4940496K/4940496K
+
+Returns 1 results elapsed time: 81900 192
+memory usage:4664344K/4664348K + 4940496K/4940496K
+
+Returns 1 results elapsed time: 82121 193
+memory usage:4664340K/4664348K + 4940496K/4940496K
+
+Returns 1 results elapsed time: 82342 194
+memory usage:4664340K/4664348K + 4940496K/4940496K
+
+Returns 1 results elapsed time: 82677 195
+memory usage:4665344K/4665348K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 82832 196
+memory usage:4665344K/4665348K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 82965 197
+memory usage:4665348K/4665352K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 83060 198
+memory usage:4665348K/4665352K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 83219 199
+memory usage:4665348K/4665352K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 83478 200
+memory usage:4665405K/4665409K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 83700 201
+memory usage:4665405K/4665409K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 84218 202
+memory usage:4665458K/4665462K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 84330 203
+memory usage:4665458K/4665462K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 86959 204
+memory usage:4665659K/4665663K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 87038 205
+memory usage:4665659K/4665663K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 87887 206
+memory usage:4665753K/4665757K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 88416 207
+memory usage:4665958K/4665962K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 88500 208
+memory usage:4665974K/4665978K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 88646 209
+memory usage:4666019K/4666023K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 88986 210
+memory usage:4666028K/4666032K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 89151 211
+memory usage:4666028K/4666032K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 89390 212
+memory usage:4666073K/4666077K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 89652 213
+memory usage:4666109K/4666114K + 4941496K/4941496K
+
+Returns 1 results elapsed time: 89830 214
+memory usage:4666331K/4666335K + 4941742K/4941742K
+
+Returns 1 results elapsed time: 90642 215
+memory usage:4667035K/4667039K + 4942409K/4942409K
+
+Returns 1 results elapsed time: 90861 216
+memory usage:4667113K/4667117K + 4942483K/4942483K
+
+Returns 1 results elapsed time: 92788 217
+memory usage:4668547K/4668551K + 4943568K/4943568K
+
+Returns 1 results elapsed time: 92858 218
+memory usage:4668567K/4668571K + 4943568K/4943568K
+
+Returns 1 results elapsed time: 94804 219
+memory usage:4673904K/4673908K + 4949049K/4949049K
+
+Returns 1 results elapsed time: 95025 220
+memory usage:4673904K/4673908K + 4949049K/4949049K
+
+Returns 1 results elapsed time: 95300 221
+memory usage:4673904K/4673908K + 4949049K/4949049K
+
+Returns 1 results elapsed time: 95778 222
+memory usage:4673904K/4673908K + 4949049K/4949049K
+
+Returns 1 results elapsed time: 95975 223
+memory usage:4673904K/4673908K + 4949049K/4949049K
+
+Returns 1 results elapsed time: 96632 224
+memory usage:4673904K/4673908K + 4949049K/4949049K
+
+Returns 1 results elapsed time: 97017 225
+memory usage:4673957K/4673961K + 4949049K/4949049K
+
+Returns 1 results elapsed time: 97439 226
+memory usage:4673957K/4673961K + 4949049K/4949049K
+
+Returns 1 results elapsed time: 97644 227
+memory usage:4674064K/4674068K + 4949049K/4949049K
+
+Returns 1 results elapsed time: 97948 228
+memory usage:4674064K/4674068K + 4949049K/4949049K
+
+Returns 1 results elapsed time: 98372 229
+memory usage:4674117K/4674121K + 4949049K/4949049K
+
+Returns 1 results elapsed time: 100151 230
+memory usage:4674277K/4674281K + 4949049K/4949049K
+
+Returns 1 results elapsed time: 100752 231
+memory usage:4674297K/4674301K + 4949049K/4949049K
+
+Returns 1 results elapsed time: 100909 232
+memory usage:4674920K/4674924K + 4949643K/4949643K
+
+Returns 1 results elapsed time: 101198 233
+memory usage:4675448K/4675452K + 4950216K/4950216K
+
+Returns 1 results elapsed time: 101463 234
+memory usage:4675457K/4675461K + 4950216K/4950216K
+
+Returns 1 results elapsed time: 101783 235
+memory usage:4675457K/4675461K + 4950216K/4950216K
+
+Returns 1 results elapsed time: 102273 236
+memory usage:4675936K/4675940K + 4950724K/4950724K
+
+Returns 1 results elapsed time: 102581 237
+memory usage:4676890K/4676894K + 4951711K/4951711K
+
+Returns 1 results elapsed time: 102747 238
+memory usage:4676898K/4676902K + 4951711K/4951711K
+
+Returns 1 results elapsed time: 102816 239
+memory usage:4676898K/4676902K + 4951711K/4951711K
+
+Returns 1 results elapsed time: 103286 240
+memory usage:4676898K/4676902K + 4951711K/4951711K
+
+Returns 1 results elapsed time: 103844 241
+memory usage:4676898K/4676902K + 4951711K/4951711K
+
+Returns 1 results elapsed time: 105868 242
+memory usage:4677402K/4677406K + 4952162K/4952162K
+
+Returns 1 results elapsed time: 105927 243
+memory usage:4677410K/4677414K + 4952162K/4952162K
+
+Returns 1 results elapsed time: 105957 244
+memory usage:4677410K/4677414K + 4952162K/4952162K
+
+Returns 1 results elapsed time: 106021 245
+memory usage:4677410K/4677414K + 4952162K/4952162K
+
+Returns 1 results elapsed time: 106764 246
+memory usage:4678578K/4678582K + 4953341K/4953341K
+
+Returns 1 results elapsed time: 106824 247
+memory usage:4678582K/4678586K + 4953341K/4953341K
+
+Returns 1 results elapsed time: 106904 248
+memory usage:4678582K/4678586K + 4953341K/4953341K
+
+Returns 1 results elapsed time: 106965 249
+memory usage:4678586K/4678590K + 4953341K/4953341K
+
+Returns 1 results elapsed time: 107017 250
+memory usage:4678586K/4678590K + 4953341K/4953341K
+
+Returns 1 results elapsed time: 107092 251
+memory usage:4678586K/4678590K + 4953341K/4953341K
+
+Returns 1 results elapsed time: 107161 252
+memory usage:4678586K/4678590K + 4953341K/4953341K
+
+Returns 1 results elapsed time: 107328 253
+memory usage:4678586K/4678590K + 4953341K/4953341K
+
+Returns 1 results elapsed time: 107420 254
+memory usage:4678586K/4678590K + 4953341K/4953341K
+
+Returns 1 results elapsed time: 107667 255
+memory usage:4678586K/4678590K + 4953341K/4953341K
+
+Returns 1 results elapsed time: 108052 256
+memory usage:4678582K/4678590K + 4953341K/4953341K
+
+Returns 1 results elapsed time: 108225 257
+memory usage:4678582K/4678590K + 4953341K/4953341K
+
+Returns 1 results elapsed time: 108368 258
+memory usage:4678762K/4678766K + 4953550K/4953550K
+
+Returns 1 results elapsed time: 108452 259
+memory usage:4678791K/4678795K + 4953550K/4953550K
+
+Returns 1 results elapsed time: 108684 260
+memory usage:4679729K/4679733K + 4954562K/4954562K
+
+Returns 1 results elapsed time: 108772 261
+memory usage:4679729K/4679733K + 4954562K/4954562K
+
+Returns 1 results elapsed time: 108873 262
+memory usage:4679729K/4679733K + 4954562K/4954562K
+
+Returns 1 results elapsed time: 108965 263
+memory usage:4679729K/4679733K + 4954562K/4954562K
+
+Returns 1 results elapsed time: 109035 264
+memory usage:4679729K/4679733K + 4954562K/4954562K
+
+Returns 1 results elapsed time: 109086 265
+memory usage:4679729K/4679733K + 4954562K/4954562K
+
+Returns 1 results elapsed time: 110237 266
+memory usage:4684685K/4684689K + 4959662K/4959662K
+
+Returns 1 results elapsed time: 110660 267
+memory usage:4684689K/4684693K + 4959662K/4959662K
+
+Returns 1 results elapsed time: 111450 268
+memory usage:4684685K/4684693K + 4959662K/4959662K
+
+Returns 1 results elapsed time: 111747 269
+memory usage:4684685K/4684693K + 4959662K/4959662K
+
+Returns 1 results elapsed time: 112358 270
+memory usage:4684693K/4684697K + 4959662K/4959662K
+
+Returns 1 results elapsed time: 112524 271
+memory usage:4684693K/4684697K + 4959662K/4959662K
+
+Returns 1 results elapsed time: 112694 272
+memory usage:4684693K/4684697K + 4959662K/4959662K
+
+Returns 1 results elapsed time: 113073 273
+memory usage:4684800K/4684804K + 4959662K/4959662K
+
+Returns 1 results elapsed time: 113783 274
+memory usage:4684800K/4684804K + 4959662K/4959662K
+
+Returns 1 results elapsed time: 113944 275
+memory usage:4684853K/4684857K + 4959662K/4959662K
+
+Returns 1 results elapsed time: 114160 276
+memory usage:4684861K/4684869K + 4959662K/4959662K
+
+Returns 1 results elapsed time: 114417 277
+memory usage:4684861K/4684869K + 4959662K/4959662K
+
+Returns 1 results elapsed time: 115471 278
+memory usage:4685910K/4685914K + 4960772K/4960772K
+
+Returns 1 results elapsed time: 115581 279
+memory usage:4685914K/4685918K + 4960772K/4960772K
+
+Returns 1 results elapsed time: 115819 280
+memory usage:4685905K/4685918K + 4960772K/4960772K
+
+Returns 1 results elapsed time: 116217 281
+memory usage:4685934K/4685938K + 4960964K/4960964K
+
+Returns 1 results elapsed time: 116748 282
+memory usage:4685938K/4685942K + 4960964K/4960964K
+
+Returns 1 results elapsed time: 116939 283
+memory usage:4685938K/4685942K + 4960964K/4960964K
+
+Returns 1 results elapsed time: 117181 284
+memory usage:4685967K/4685971K + 4960964K/4960964K
+
+Returns 1 results elapsed time: 117311 285
+memory usage:4685967K/4685971K + 4960964K/4960964K
+
+Returns 1 results elapsed time: 117606 286
+memory usage:4685967K/4685971K + 4960964K/4960964K
+
+Returns 1 results elapsed time: 117999 287
+memory usage:4685971K/4685975K + 4960964K/4960964K
+
+Returns 1 results elapsed time: 118740 288
+memory usage:4685971K/4685975K + 4960964K/4960964K
+
+Returns 1 results elapsed time: 119481 289
+memory usage:4685971K/4685975K + 4960964K/4960964K
+
+Returns 1 results elapsed time: 120372 290
+memory usage:4686417K/4686422K + 4961202K/4961202K
+
+Returns 1 results elapsed time: 120450 291
+memory usage:4686422K/4686426K + 4961202K/4961202K
+
+Returns 1 results elapsed time: 120786 292
+memory usage:4688879K/4688887K + 4963782K/4963782K
+
+Returns 1 results elapsed time: 120982 293
+memory usage:4688879K/4688887K + 4963782K/4963782K
+
+Returns 1 results elapsed time: 121060 294
+memory usage:4688879K/4688887K + 4963782K/4963782K
+
+Returns 1 results elapsed time: 121268 295
+memory usage:4688875K/4688887K + 4963782K/4963782K
+
+Returns 1 results elapsed time: 121451 296
+memory usage:4688879K/4688887K + 4963782K/4963782K
+
+Returns 1 results elapsed time: 121656 297
+memory usage:4688879K/4688887K + 4963782K/4963782K
+
+Returns 1 results elapsed time: 122072 298
+memory usage:4688879K/4688887K + 4963782K/4963782K
+
+Returns 1 results elapsed time: 122171 299
+memory usage:4688879K/4688887K + 4963782K/4963782K
+
+Returns 1 results elapsed time: 122376 300
+memory usage:4688879K/4688887K + 4963782K/4963782K
+
+Returns 1 results elapsed time: 122592 301
+memory usage:4688887K/4688891K + 4963782K/4963782K
+
+Returns 1 results elapsed time: 122940 302
+memory usage:4688941K/4688945K + 4963782K/4963782K
+
+Returns 1 results elapsed time: 123006 303
+memory usage:4688941K/4688945K + 4963782K/4963782K
+
+Returns 1 results elapsed time: 123135 304
+memory usage:4688941K/4688945K + 4963782K/4963782K
+
+Returns 1 results elapsed time: 123428 305
+memory usage:4689629K/4689633K + 4964462K/4964462K
+
+Returns 1 results elapsed time: 124083 306
+memory usage:4689633K/4689637K + 4964462K/4964462K
+
+Returns 1 results elapsed time: 124286 307
+memory usage:4689629K/4689637K + 4964462K/4964462K
+
+Returns 1 results elapsed time: 124690 308
+memory usage:4689629K/4689637K + 4964462K/4964462K
+
+Returns 1 results elapsed time: 124938 309
+memory usage:4689629K/4689637K + 4964462K/4964462K
+
+Returns 1 results elapsed time: 125145 310
+memory usage:4689629K/4689637K + 4964462K/4964462K
+
+Returns 1 results elapsed time: 125264 311
+memory usage:4689629K/4689637K + 4964462K/4964462K
+
+Returns 1 results elapsed time: 125863 312
+memory usage:4691271K/4691275K + 4966117K/4966117K
+
+Returns 1 results elapsed time: 127008 313
+memory usage:4691324K/4691329K + 4966117K/4966117K
+
+Returns 1 results elapsed time: 127235 314
+memory usage:4691324K/4691329K + 4966117K/4966117K
+
+Returns 1 results elapsed time: 127535 315
+memory usage:4691320K/4691329K + 4966117K/4966117K
+
+Returns 1 results elapsed time: 127778 316
+memory usage:4691320K/4691329K + 4966117K/4966117K
+
+Returns 1 results elapsed time: 128078 317
+memory usage:4691582K/4691587K + 4966408K/4966408K
+
+Returns 1 results elapsed time: 128122 318
+memory usage:4691582K/4691587K + 4966408K/4966408K
+
+Returns 1 results elapsed time: 128369 319
+memory usage:4691582K/4691587K + 4966408K/4966408K
+
+Returns 1 results elapsed time: 128690 320
+memory usage:4691578K/4691587K + 4966408K/4966408K
+
+Returns 1 results elapsed time: 128860 321
+memory usage:4691578K/4691587K + 4966408K/4966408K
+
+Returns 1 results elapsed time: 128946 322
+memory usage:4691578K/4691587K + 4966408K/4966408K
+
+Returns 1 results elapsed time: 129451 323
+memory usage:4691693K/4691697K + 4966539K/4966539K
+
+Returns 1 results elapsed time: 129753 324
+memory usage:4693123K/4693127K + 4968058K/4968058K
+
+Returns 1 results elapsed time: 130045 325
+memory usage:4693123K/4693127K + 4968058K/4968058K
+
+Returns 1 results elapsed time: 130378 326
+memory usage:4693123K/4693127K + 4968058K/4968058K
+
+Returns 1 results elapsed time: 130560 327
+memory usage:4693123K/4693127K + 4968058K/4968058K
+
+Returns 1 results elapsed time: 130719 328
+memory usage:4693123K/4693127K + 4968058K/4968058K
+
+Returns 1 results elapsed time: 131170 329
+memory usage:4693127K/4693131K + 4968058K/4968058K
+
+Returns 1 results elapsed time: 131382 330
+memory usage:4693127K/4693131K + 4968058K/4968058K
+
+Returns 1 results elapsed time: 131882 331
+memory usage:4693127K/4693131K + 4968058K/4968058K
+
+Returns 1 results elapsed time: 131958 332
+memory usage:4693127K/4693131K + 4968058K/4968058K
+
+Returns 1 results elapsed time: 132440 333
+memory usage:4693127K/4693131K + 4968058K/4968058K
+
+Returns 1 results elapsed time: 132604 334
+memory usage:4693127K/4693131K + 4968058K/4968058K
+
+Returns 1 results elapsed time: 132782 335
+memory usage:4693127K/4693131K + 4968058K/4968058K
+
+Returns 1 results elapsed time: 132874 336
+memory usage:4693127K/4693131K + 4968058K/4968058K
+
+Returns 1 results elapsed time: 133374 337
+memory usage:4693487K/4693491K + 4968366K/4968366K
+
+Returns 1 results elapsed time: 133454 338
+memory usage:4693487K/4693491K + 4968366K/4968366K
+
+Returns 1 results elapsed time: 133814 339
+memory usage:4694499K/4694503K + 4969435K/4969435K
+
+Returns 1 results elapsed time: 134303 340
+memory usage:4695396K/4695400K + 4970389K/4970389K
+
+Returns 1 results elapsed time: 134493 341
+memory usage:4695453K/4695457K + 4970389K/4970389K
+
+Returns 1 results elapsed time: 134668 342
+memory usage:4695457K/4695461K + 4970389K/4970389K
+
+Returns 1 results elapsed time: 135125 343
+memory usage:4695457K/4695461K + 4970389K/4970389K
+
+Returns 1 results elapsed time: 135364 344
+memory usage:4695457K/4695461K + 4970389K/4970389K
+
+Returns 1 results elapsed time: 137026 345
+memory usage:4697440K/4697444K + 4972576K/4972576K
+
+Returns 1 results elapsed time: 137151 346
+memory usage:4697440K/4697444K + 4972576K/4972576K
+
+Returns 1 results elapsed time: 137580 347
+memory usage:4697440K/4697444K + 4972576K/4972576K
+
+Returns 1 results elapsed time: 137691 348
+memory usage:4697440K/4697444K + 4972576K/4972576K
+
+Returns 1 results elapsed time: 137969 349
+memory usage:4698415K/4698419K + 4973645K/4973645K
+
+Returns 1 results elapsed time: 138189 350
+memory usage:4698525K/4698529K + 4973645K/4973645K
+
+Returns 1 results elapsed time: 138301 351
+memory usage:4698525K/4698529K + 4973645K/4973645K
+
+Returns 1 results elapsed time: 139010 352
+memory usage:4698525K/4698529K + 4973645K/4973645K
+
+Returns 1 results elapsed time: 139097 353
+memory usage:4698525K/4698529K + 4973645K/4973645K
+
+Returns 1 results elapsed time: 139274 354
+memory usage:4698525K/4698529K + 4973645K/4973645K
+
+Returns 1 results elapsed time: 139411 355
+memory usage:4698525K/4698529K + 4973645K/4973645K
+
+Returns 1 results elapsed time: 139655 356
+memory usage:4698525K/4698529K + 4973645K/4973645K
+
+Returns 1 results elapsed time: 139679 357
+memory usage:4698525K/4698529K + 4973645K/4973645K
+
+Returns 1 results elapsed time: 140092 358
+memory usage:4698525K/4698529K + 4973645K/4973645K
+
+Returns 1 results elapsed time: 140670 359
+memory usage:4698525K/4698529K + 4973645K/4973645K
+
+Returns 1 results elapsed time: 140818 360
+memory usage:4698525K/4698529K + 4973645K/4973645K
+
+Returns 1 results elapsed time: 140945 361
+memory usage:4698529K/4698533K + 4973645K/4973645K
+
+Returns 1 results elapsed time: 141012 362
+memory usage:4698529K/4698533K + 4973645K/4973645K
+
+Returns 1 results elapsed time: 141180 363
+memory usage:4698980K/4698984K + 4974141K/4974141K
+
+Returns 1 results elapsed time: 141224 364
+memory usage:4698980K/4698984K + 4974141K/4974141K
+
+Returns 1 results elapsed time: 141350 365
+memory usage:4698980K/4698984K + 4974141K/4974141K
+
+Returns 1 results elapsed time: 141447 366
+memory usage:4698980K/4698984K + 4974141K/4974141K
+
+Returns 1 results elapsed time: 141600 367
+memory usage:4698980K/4698984K + 4974141K/4974141K
+
+Returns 1 results elapsed time: 141688 368
+memory usage:4698980K/4698984K + 4974141K/4974141K
+
+Returns 1 results elapsed time: 141872 369
+memory usage:4700028K/4700033K + 4975292K/4975292K
+
+Returns 1 results elapsed time: 142030 370
+memory usage:4700057K/4700061K + 4975292K/4975292K
+
+Returns 1 results elapsed time: 142341 371
+memory usage:4700057K/4700061K + 4975292K/4975292K
+
+Returns 1 results elapsed time: 142618 372
+memory usage:4700057K/4700061K + 4975292K/4975292K
+
+Returns 1 results elapsed time: 142689 373
+memory usage:4700057K/4700061K + 4975292K/4975292K
+
+Returns 1 results elapsed time: 142957 374
+memory usage:4700057K/4700061K + 4975292K/4975292K
+
+Returns 1 results elapsed time: 143249 375
+memory usage:4700119K/4700123K + 4975292K/4975292K
+
+Returns 1 results elapsed time: 143347 376
+memory usage:4700119K/4700123K + 4975292K/4975292K
+
+Returns 1 results elapsed time: 143383 377
+memory usage:4700119K/4700123K + 4975292K/4975292K
+
+Returns 1 results elapsed time: 143644 378
+memory usage:4700278K/4700282K + 4975423K/4975423K
+
+Returns 1 results elapsed time: 144253 379
+memory usage:4700278K/4700282K + 4975423K/4975423K
+
+Returns 1 results elapsed time: 144774 380
+memory usage:4700921K/4700925K + 4976123K/4976123K
+
+Returns 1 results elapsed time: 145051 381
+memory usage:4700938K/4700942K + 4976123K/4976123K
+
+Returns 1 results elapsed time: 145429 382
+memory usage:4701724K/4701728K + 4976926K/4976926K
+
+Returns 1 results elapsed time: 145802 383
+memory usage:4701724K/4701728K + 4976926K/4976926K
+
+Returns 1 results elapsed time: 146142 384
+memory usage:4701724K/4701728K + 4976926K/4976926K
+
+Returns 1 results elapsed time: 146814 385
+memory usage:4702142K/4702146K + 4977278K/4977278K
+
+Returns 1 results elapsed time: 147387 386
+memory usage:4702203K/4702208K + 4977278K/4977278K
+
+Returns 1 results elapsed time: 147577 387
+memory usage:4702203K/4702208K + 4977278K/4977278K
+
+Returns 1 results elapsed time: 147640 388
+memory usage:4702228K/4702232K + 4977278K/4977278K
+
+Returns 1 results elapsed time: 147828 389
+memory usage:4702228K/4702232K + 4977278K/4977278K
+
+Returns 1 results elapsed time: 147904 390
+memory usage:4702228K/4702232K + 4977278K/4977278K
+
+Returns 1 results elapsed time: 147997 391
+memory usage:4702228K/4702232K + 4977278K/4977278K
+
+Returns 1 results elapsed time: 148055 392
+memory usage:4702228K/4702232K + 4977278K/4977278K
+
+Returns 1 results elapsed time: 148279 393
+memory usage:4702281K/4702285K + 4977278K/4977278K
+
+Returns 1 results elapsed time: 149306 394
+memory usage:4703330K/4703334K + 4978446K/4978446K
+
+Returns 1 results elapsed time: 149422 395
+memory usage:4703371K/4703375K + 4978446K/4978446K
+
+Returns 1 results elapsed time: 149629 396
+memory usage:4703694K/4703698K + 4978683K/4978683K
+
+Returns 1 results elapsed time: 149721 397
+memory usage:4703698K/4703703K + 4978683K/4978683K
+
+Returns 1 results elapsed time: 150292 398
+memory usage:4704595K/4704600K + 4979703K/4979703K
+
+Returns 1 results elapsed time: 151088 399
+memory usage:4704628K/4704632K + 4979703K/4979703K
+
+Returns 1 results elapsed time: 151288 400
+memory usage:4704628K/4704632K + 4979703K/4979703K
+
+Returns 1 results elapsed time: 151964 401
+memory usage:4705656K/4705660K + 4980731K/4980731K
+
+Returns 1 results elapsed time: 152582 402
+memory usage:4705660K/4705665K + 4980731K/4980731K
+
+Returns 1 results elapsed time: 152929 403
+memory usage:4705660K/4705665K + 4980731K/4980731K
+
+Returns 1 results elapsed time: 153156 404
+memory usage:4705869K/4705873K + 4980998K/4980998K
+
+Returns 1 results elapsed time: 153238 405
+memory usage:4705869K/4705873K + 4980998K/4980998K
+
+Returns 1 results elapsed time: 153324 406
+memory usage:4705869K/4705873K + 4980998K/4980998K
+
+Returns 1 results elapsed time: 153702 407
+memory usage:4708487K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 153791 408
+memory usage:4708487K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 153885 409
+memory usage:4708487K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 153927 410
+memory usage:4708487K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 153986 411
+memory usage:4708487K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 154012 412
+memory usage:4708487K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 154083 413
+memory usage:4708487K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 154643 414
+memory usage:4708487K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 154697 415
+memory usage:4708487K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 155163 416
+memory usage:4708487K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 155326 417
+memory usage:4708487K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 155412 418
+memory usage:4708491K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 155505 419
+memory usage:4708491K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 155948 420
+memory usage:4708491K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 156113 421
+memory usage:4708491K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 156247 422
+memory usage:4708491K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 156268 423
+memory usage:4708491K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 156461 424
+memory usage:4708491K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 156914 425
+memory usage:4708491K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 157163 426
+memory usage:4708491K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 157675 427
+memory usage:4708483K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 158117 428
+memory usage:4708487K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 158774 429
+memory usage:4708483K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 159356 430
+memory usage:4708483K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 159645 431
+memory usage:4708483K/4708495K + 4983681K/4983681K
+
+Returns 1 results elapsed time: 160129 432
+memory usage:4709552K/4709556K + 4984778K/4984778K
+
+Returns 1 results elapsed time: 160266 433
+memory usage:4709564K/4709568K + 4984778K/4984778K
+
+Returns 1 results elapsed time: 160384 434
+memory usage:4709568K/4709572K + 4984778K/4984778K
+
+Returns 1 results elapsed time: 162817 435
+memory usage:4710260K/4710264K + 4985454K/4985454K
+
+Returns 1 results elapsed time: 163408 436
+memory usage:4710645K/4710649K + 4985831K/4985831K
+
+Returns 1 results elapsed time: 164426 437
+memory usage:4711096K/4711100K + 4986277K/4986277K
+
+Returns 1 results elapsed time: 164539 438
+memory usage:4711096K/4711100K + 4986277K/4986277K
+
+Returns 1 results elapsed time: 164557 439
+memory usage:4711096K/4711100K + 4986277K/4986277K
+
+Returns 1 results elapsed time: 164795 440
+memory usage:4711198K/4711202K + 4986355K/4986355K
+
+Returns 1 results elapsed time: 164869 441
+memory usage:4711370K/4711374K + 4986433K/4986433K
+
+Returns 1 results elapsed time: 165131 442
+memory usage:4711497K/4711501K + 4986576K/4986576K
+
+Returns 1 results elapsed time: 166607 443
+memory usage:4712456K/4712460K + 4987363K/4987363K
+
+Returns 1 results elapsed time: 166872 444
+memory usage:4712837K/4712841K + 4987514K/4987514K
+
+Returns 1 results elapsed time: 166956 445
+memory usage:4713336K/4713340K + 4988112K/4988112K
+
+Returns 1 results elapsed time: 167696 446
+memory usage:4713545K/4713549K + 4988186K/4988186K
+
+Returns 1 results elapsed time: 168387 447
+memory usage:4713881K/4713885K + 4988559K/4988559K
+
+Returns 1 results elapsed time: 168675 448
+memory usage:4713943K/4713947K + 4988694K/4988694K
+
+Returns 1 results elapsed time: 168699 449
+memory usage:4713955K/4713959K + 4988694K/4988694K
+
+Returns 1 results elapsed time: 168964 450
+memory usage:4714639K/4714643K + 4989427K/4989427K
+
+Returns 1 results elapsed time: 169082 451
+memory usage:4714754K/4714758K + 4989513K/4989513K
+
+Returns 1 results elapsed time: 169362 452
+memory usage:4715896K/4715900K + 4990734K/4990734K
+
+Returns 1 results elapsed time: 169828 453
+memory usage:4715896K/4715900K + 4990734K/4990734K
+
+Returns 1 results elapsed time: 169901 454
+memory usage:4715896K/4715900K + 4990734K/4990734K
+
+Returns 1 results elapsed time: 170405 455
+memory usage:4715900K/4715905K + 4990734K/4990734K
+
+Returns 1 results elapsed time: 170999 456
+memory usage:4715954K/4715958K + 4990734K/4990734K
+
+Returns 1 results elapsed time: 171034 457
+memory usage:4715954K/4715958K + 4990734K/4990734K
+
+Returns 1 results elapsed time: 171453 458
+memory usage:4715958K/4715962K + 4990734K/4990734K
+
+Returns 1 results elapsed time: 172080 459
+memory usage:4716535K/4716539K + 4991254K/4991254K
+
+Returns 1 results elapsed time: 172353 460
+memory usage:4716871K/4716875K + 4991406K/4991406K
+
+Returns 1 results elapsed time: 172782 461
+memory usage:4717314K/4717318K + 4991995K/4991995K
+
+Returns 1 results elapsed time: 173173 462
+memory usage:4717334K/4717338K + 4991995K/4991995K
+
+Returns 1 results elapsed time: 174238 463
+memory usage:4718006K/4718010K + 4992520K/4992520K
+
+Returns 1 results elapsed time: 174499 464
+memory usage:4718223K/4718227K + 4992684K/4992684K
+
+Returns 1 results elapsed time: 175219 465
+memory usage:4720066K/4720070K + 4994535K/4994535K
+
+Returns 1 results elapsed time: 175289 466
+memory usage:4720066K/4720070K + 4994535K/4994535K
+
+Returns 1 results elapsed time: 175384 467
+memory usage:4720095K/4720099K + 4994535K/4994535K
+
+Returns 1 results elapsed time: 175648 468
+memory usage:4720218K/4720222K + 4994535K/4994535K
+
+Returns 1 results elapsed time: 176186 469
+memory usage:4720218K/4720222K + 4994535K/4994535K
+
+Returns 1 results elapsed time: 176653 470
+memory usage:4720476K/4720480K + 4994805K/4994805K
+
+Returns 1 results elapsed time: 176933 471
+memory usage:4720480K/4720484K + 4994805K/4994805K
+
+Returns 1 results elapsed time: 177077 472
+memory usage:4720480K/4720484K + 4994805K/4994805K
+
+Returns 1 results elapsed time: 177186 473
+memory usage:4720480K/4720484K + 4994805K/4994805K
+
+Returns 1 results elapsed time: 177465 474
+memory usage:4720480K/4720484K + 4994805K/4994805K
+
+Returns 1 results elapsed time: 177589 475
+memory usage:4720480K/4720484K + 4994805K/4994805K
+
+Returns 1 results elapsed time: 178725 476
+memory usage:4721405K/4721410K + 4995567K/4995567K
+
+Returns 1 results elapsed time: 178765 477
+memory usage:4721410K/4721414K + 4995567K/4995567K
+
+Returns 1 results elapsed time: 178790 478
+memory usage:4721410K/4721414K + 4995567K/4995567K
+
+Returns 1 results elapsed time: 178828 479
+memory usage:4721410K/4721414K + 4995567K/4995567K
+
+Returns 1 results elapsed time: 178856 480
+memory usage:4721410K/4721414K + 4995567K/4995567K
+
+Returns 1 results elapsed time: 178887 481
+memory usage:4721410K/4721414K + 4995567K/4995567K
+
+Returns 1 results elapsed time: 178948 482
+memory usage:4721410K/4721414K + 4995567K/4995567K
+
+Returns 1 results elapsed time: 179473 483
+memory usage:4721946K/4721950K + 4996161K/4996161K
+
+Returns 1 results elapsed time: 179740 484
+memory usage:4722098K/4722102K + 4996382K/4996382K
+
+Returns 1 results elapsed time: 180108 485
+memory usage:4722188K/4722192K + 4996468K/4996468K
+
+Returns 1 results elapsed time: 180510 486
+memory usage:4722188K/4722192K + 4996468K/4996468K
+
+Returns 1 results elapsed time: 180613 487
+memory usage:4722327K/4722331K + 4996542K/4996542K
+
+Returns 1 results elapsed time: 181076 488
+memory usage:4723179K/4723183K + 4997537K/4997537K
+
+Returns 1 results elapsed time: 181263 489
+memory usage:4723179K/4723183K + 4997537K/4997537K
+
+Returns 1 results elapsed time: 181832 490
+memory usage:4723687K/4723691K + 4998053K/4998053K
+
+Returns 1 results elapsed time: 182117 491
+memory usage:4723687K/4723691K + 4998053K/4998053K
+
+Returns 1 results elapsed time: 182674 492
+memory usage:4723904K/4723908K + 4998230K/4998230K
+
+Returns 1 results elapsed time: 183527 493
+memory usage:4724346K/4724350K + 4998680K/4998680K
+
+Returns 1 results elapsed time: 183738 494
+memory usage:4724350K/4724355K + 4998680K/4998680K
+
+Returns 1 results elapsed time: 184385 495
+memory usage:4724543K/4724547K + 4998914K/4998914K
+
+Returns 1 results elapsed time: 185020 496
+memory usage:4724617K/4724621K + 4998914K/4998914K
+
+Returns 1 results elapsed time: 185141 497
+memory usage:4724871K/4724875K + 4999270K/4999270K
+
+Returns 1 results elapsed time: 185505 498
+memory usage:4725211K/4725215K + 4999557K/4999557K
+
+Returns 1 results elapsed time: 185906 499
+memory usage:4725469K/4725473K + 4999794K/4999794K
+
+Returns 1 results elapsed time: 186404 500
+memory usage:4725620K/4725624K + 5000003K/5000003K
+
+Returns 1 results elapsed time: 186653 501
+memory usage:4725772K/4725776K + 5000228K/5000228K
+
+Returns 1 results elapsed time: 186751 502
+memory usage:4725792K/4725796K + 5000228K/5000228K
+
+Returns 1 results elapsed time: 187067 503
+memory usage:4725792K/4725796K + 5000228K/5000228K
+
+Returns 1 results elapsed time: 187113 504
+memory usage:4725792K/4725796K + 5000228K/5000228K
+
+Returns 1 results elapsed time: 187295 505
+memory usage:4725792K/4725796K + 5000228K/5000228K
+
+Returns 1 results elapsed time: 188412 506
+memory usage:4726939K/4726943K + 5001334K/5001334K
+
+Returns 1 results elapsed time: 188700 507
+memory usage:4727050K/4727054K + 5001469K/5001469K
+
+Returns 1 results elapsed time: 189000 508
+memory usage:4729053K/4729057K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 189076 509
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 189124 510
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 189202 511
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 189282 512
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 189327 513
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 189394 514
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 189445 515
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 189505 516
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 189564 517
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 189646 518
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 189700 519
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 189749 520
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 189800 521
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 189842 522
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 189905 523
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 189967 524
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 190078 525
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 190143 526
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 190181 527
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 190226 528
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 190310 529
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 190363 530
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 190418 531
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 190902 532
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 191968 533
+memory usage:4729057K/4729061K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 192161 534
+memory usage:4729085K/4729090K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 192207 535
+memory usage:4729085K/4729090K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 192234 536
+memory usage:4729090K/4729094K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 192301 537
+memory usage:4729090K/4729094K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 192332 538
+memory usage:4729090K/4729094K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 192427 539
+memory usage:4729090K/4729094K + 5003354K/5003354K
+
+Returns 1 results elapsed time: 192550 540
+memory usage:4729397K/4729401K + 5003657K/5003657K
+
+Returns 1 results elapsed time: 193689 541
+memory usage:4729671K/4729675K + 5003960K/5003960K
+
+Returns 1 results elapsed time: 193778 542
+memory usage:4729671K/4729675K + 5003960K/5003960K
+
+Returns 1 results elapsed time: 194389 543
+memory usage:4730830K/4730834K + 5005086K/5005086K
+
+Returns 1 results elapsed time: 194664 544
+memory usage:4730834K/4730839K + 5005086K/5005086K
+
+Returns 1 results elapsed time: 194921 545
+memory usage:4730871K/4730875K + 5005221K/5005221K
+
+Returns 1 results elapsed time: 195671 546
+memory usage:4731838K/4731842K + 5006196K/5006196K
+
+Returns 1 results elapsed time: 195873 547
+memory usage:4731842K/4731846K + 5006196K/5006196K
+
+Returns 1 results elapsed time: 197098 548
+memory usage:4732153K/4732157K + 5006434K/5006434K
+
+Returns 1 results elapsed time: 197474 549
+memory usage:4732207K/4732211K + 5006520K/5006520K
+
+Returns 1 results elapsed time: 197995 550
+memory usage:4732739K/4732743K + 5007032K/5007032K
+
+Returns 1 results elapsed time: 198168 551
+memory usage:4732780K/4732784K + 5007032K/5007032K
+
+Returns 1 results elapsed time: 198221 552
+memory usage:4732817K/4732821K + 5007032K/5007032K
+
+Returns 1 results elapsed time: 198349 553
+memory usage:4732817K/4732821K + 5007032K/5007032K
+
+Returns 1 results elapsed time: 200719 554
+memory usage:4737277K/4737282K + 5011550K/5011550K
+
+Returns 1 results elapsed time: 200910 555
+memory usage:4737273K/4737282K + 5011550K/5011550K
+
+Returns 1 results elapsed time: 201020 556
+memory usage:4737273K/4737282K + 5011550K/5011550K
+
+Returns 1 results elapsed time: 202021 557
+memory usage:4737318K/4737323K + 5011550K/5011550K
+
+Returns 1 results elapsed time: 202523 558
+memory usage:4737892K/4737896K + 5012197K/5012197K
+
+Returns 1 results elapsed time: 202935 559
+memory usage:4737941K/4737945K + 5012197K/5012197K
+
+Returns 1 results elapsed time: 203013 560
+memory usage:4737941K/4737945K + 5012197K/5012197K
+
+Returns 1 results elapsed time: 203083 561
+memory usage:4737941K/4737945K + 5012197K/5012197K
+
+Returns 1 results elapsed time: 203123 562
+memory usage:4737941K/4737945K + 5012197K/5012197K
+
+Returns 1 results elapsed time: 203203 563
+memory usage:4737941K/4737945K + 5012197K/5012197K
+
+Returns 1 results elapsed time: 203229 564
+memory usage:4737941K/4737945K + 5012197K/5012197K
+
+Returns 1 results elapsed time: 203300 565
+memory usage:4737941K/4737945K + 5012197K/5012197K
+
+Returns 1 results elapsed time: 203329 566
+memory usage:4737941K/4737945K + 5012197K/5012197K
+
+Returns 1 results elapsed time: 203380 567
+memory usage:4737941K/4737945K + 5012197K/5012197K
+
+Returns 1 results elapsed time: 203407 568
+memory usage:4737941K/4737945K + 5012197K/5012197K
+
+Returns 1 results elapsed time: 203541 569
+memory usage:4737941K/4737945K + 5012197K/5012197K
+
+Returns 1 results elapsed time: 203664 570
+memory usage:4737937K/4737945K + 5012197K/5012197K
+
+Returns 1 results elapsed time: 203770 571
+memory usage:4737937K/4737945K + 5012197K/5012197K
+
+Returns 1 results elapsed time: 203864 572
+memory usage:4737937K/4737945K + 5012197K/5012197K
+
+Returns 1 results elapsed time: 203938 573
+memory usage:4738002K/4738007K + 5012340K/5012340K
+
+Returns 1 results elapsed time: 204012 574
+memory usage:4738203K/4738207K + 5012484K/5012484K
+
+Returns 1 results elapsed time: 204064 575
+memory usage:4738203K/4738207K + 5012484K/5012484K
+
+Returns 1 results elapsed time: 204145 576
+memory usage:4738203K/4738207K + 5012484K/5012484K
+
+Returns 1 results elapsed time: 204229 577
+memory usage:4738203K/4738207K + 5012484K/5012484K
+
+Returns 1 results elapsed time: 204436 578
+memory usage:4738203K/4738207K + 5012484K/5012484K
+
+Returns 1 results elapsed time: 205278 579
+memory usage:4738203K/4738207K + 5012484K/5012484K
+
+Returns 1 results elapsed time: 205686 580
+memory usage:4738203K/4738207K + 5012484K/5012484K
+
+Returns 1 results elapsed time: 206187 581
+memory usage:4738727K/4738732K + 5013041K/5013041K
+
+Returns 1 results elapsed time: 206245 582
+memory usage:4738756K/4738760K + 5013041K/5013041K
+
+Returns 1 results elapsed time: 206322 583
+memory usage:4738756K/4738760K + 5013041K/5013041K
+
+Returns 1 results elapsed time: 206844 584
+memory usage:4738756K/4738760K + 5013041K/5013041K
+
+Returns 1 results elapsed time: 206898 585
+memory usage:4738756K/4738760K + 5013041K/5013041K
+
+Returns 1 results elapsed time: 206959 586
+memory usage:4738756K/4738760K + 5013041K/5013041K
+
+Returns 1 results elapsed time: 207011 587
+memory usage:4738756K/4738760K + 5013041K/5013041K
+
+Returns 1 results elapsed time: 207196 588
+memory usage:4738756K/4738760K + 5013041K/5013041K
+
+Returns 1 results elapsed time: 207356 589
+memory usage:4740222K/4740227K + 5014622K/5014622K
+
+Returns 1 results elapsed time: 207435 590
+memory usage:4740288K/4740292K + 5014765K/5014765K
+
+Returns 1 results elapsed time: 207530 591
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 207634 592
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 207735 593
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 208075 594
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 208084 595
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 208139 596
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 208339 597
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 208383 598
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 208455 599
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 208494 600
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 208582 601
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 208638 602
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 208801 603
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 208913 604
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 208963 605
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 209014 606
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 209062 607
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 209114 608
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 209268 609
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 209320 610
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 209439 611
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 209506 612
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 209547 613
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 209610 614
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 209723 615
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 209755 616
+memory usage:4740755K/4740759K + 5015187K/5015187K
+
+Returns 1 results elapsed time: 210018 617
+memory usage:4742443K/4742447K + 5016956K/5016956K
+
+Returns 1 results elapsed time: 210325 618
+memory usage:4742705K/4742709K + 5017243K/5017243K
+
+Returns 1 results elapsed time: 210626 619
+memory usage:4742905K/4742909K + 5017530K/5017530K
+
+Returns 1 results elapsed time: 210854 620
+memory usage:4742905K/4742909K + 5017530K/5017530K
+
+Returns 1 results elapsed time: 211101 621
+memory usage:4742905K/4742909K + 5017530K/5017530K
+
+Returns 1 results elapsed time: 211361 622
+memory usage:4743041K/4743045K + 5017677K/5017677K
+
+Returns 1 results elapsed time: 211563 623
+memory usage:4743041K/4743045K + 5017677K/5017677K
+
+Returns 1 results elapsed time: 211792 624
+memory usage:4743041K/4743045K + 5017677K/5017677K
+
+Returns 1 results elapsed time: 211979 625
+memory usage:4743041K/4743045K + 5017677K/5017677K
+
+Returns 1 results elapsed time: 212203 626
+memory usage:4743041K/4743045K + 5017677K/5017677K
+
+Returns 1 results elapsed time: 212473 627
+memory usage:4743041K/4743045K + 5017677K/5017677K
+
+Returns 1 results elapsed time: 212612 628
+memory usage:4743041K/4743045K + 5017677K/5017677K
+
+Returns 1 results elapsed time: 212777 629
+memory usage:4743041K/4743045K + 5017677K/5017677K
+
+Returns 1 results elapsed time: 212927 630
+memory usage:4743036K/4743045K + 5017677K/5017677K
+
+Returns 1 results elapsed time: 213033 631
+memory usage:4743036K/4743045K + 5017677K/5017677K
+
+Returns 1 results elapsed time: 213159 632
+memory usage:4743036K/4743045K + 5017677K/5017677K
+
+Returns 1 results elapsed time: 213279 633
+memory usage:4743036K/4743045K + 5017677K/5017677K
+
+Returns 1 results elapsed time: 213430 634
+memory usage:4743036K/4743045K + 5017677K/5017677K
+
+Returns 1 results elapsed time: 213594 635
+memory usage:4743036K/4743045K + 5017677K/5017677K
+
+Returns 1 results elapsed time: 213727 636
+memory usage:4743036K/4743045K + 5017677K/5017677K
+
+Returns 1 results elapsed time: 213907 637
+memory usage:4743036K/4743045K + 5017677K/5017677K
+
+Returns 1 results elapsed time: 214094 638
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 214294 639
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 214488 640
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 214550 641
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 214633 642
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 214732 643
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 214771 644
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 214857 645
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 214971 646
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 215023 647
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 215200 648
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 215533 649
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 215556 650
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 215589 651
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 215676 652
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 215709 653
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 215744 654
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 215906 655
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 216055 656
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 216153 657
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 216271 658
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 216340 659
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 216392 660
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 216455 661
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 216707 662
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 216765 663
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 216877 664
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 216960 665
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 217034 666
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 217056 667
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 217082 668
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 217099 669
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 217151 670
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 217191 671
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 217239 672
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 217471 673
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 217576 674
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 217676 675
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 217761 676
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 217821 677
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 217884 678
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 217931 679
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 218073 680
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 218095 681
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 218129 682
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 219026 683
+memory usage:4743307K/4743311K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 219971 684
+memory usage:4743311K/4743315K + 5017964K/5017964K
+
+Returns 1 results elapsed time: 220581 685
+memory usage:4743704K/4743708K + 5018247K/5018247K
+
+Returns 1 results elapsed time: 220620 686
+memory usage:4743704K/4743708K + 5018247K/5018247K
+
+Returns 1 results elapsed time: 220729 687
+memory usage:4743704K/4743708K + 5018247K/5018247K
+
+Returns 1 results elapsed time: 222501 688
+memory usage:4744318K/4744323K + 5018894K/5018894K
+
+Returns 1 results elapsed time: 224008 689
+memory usage:4746846K/4746850K + 5021523K/5021523K
+
+Returns 1 results elapsed time: 224290 690
+memory usage:4746850K/4746854K + 5021523K/5021523K
+
+Returns 1 results elapsed time: 224481 691
+memory usage:4746850K/4746854K + 5021523K/5021523K
+
+Returns 1 results elapsed time: 224499 692
+memory usage:4746850K/4746854K + 5021523K/5021523K
+
+Returns 1 results elapsed time: 224535 693
+memory usage:4746850K/4746854K + 5021523K/5021523K
+
+Returns 1 results elapsed time: 224547 694
+memory usage:4746850K/4746854K + 5021523K/5021523K
+
+Returns 1 results elapsed time: 224690 695
+memory usage:4746850K/4746854K + 5021523K/5021523K
+
+Returns 1 results elapsed time: 224765 696
+memory usage:4746850K/4746854K + 5021523K/5021523K
+
+Returns 1 results elapsed time: 225372 697
+memory usage:4746850K/4746854K + 5021523K/5021523K
+
+Returns 1 results elapsed time: 225471 698
+memory usage:4747526K/4747530K + 5022244K/5022244K
+
+Returns 1 results elapsed time: 226124 699
+memory usage:4747804K/4747808K + 5022519K/5022519K
+
+Returns 1 results elapsed time: 226214 700
+memory usage:4747808K/4747812K + 5022519K/5022519K
+
+Returns 1 results elapsed time: 226300 701
+memory usage:4747808K/4747812K + 5022519K/5022519K
+
+Returns 1 results elapsed time: 226375 702
+memory usage:4747808K/4747812K + 5022519K/5022519K
+
+Returns 1 results elapsed time: 226434 703
+memory usage:4747808K/4747812K + 5022519K/5022519K
+
+Returns 1 results elapsed time: 226466 704
+memory usage:4747808K/4747812K + 5022519K/5022519K
+
+Returns 1 results elapsed time: 226921 705
+memory usage:4747841K/4747845K + 5022519K/5022519K
+
+Returns 1 results elapsed time: 227008 706
+memory usage:4747841K/4747845K + 5022519K/5022519K
+
+Returns 1 results elapsed time: 227208 707
+memory usage:4747841K/4747845K + 5022519K/5022519K
+
+Returns 1 results elapsed time: 227265 708
+memory usage:4747841K/4747845K + 5022519K/5022519K
+
+Returns 1 results elapsed time: 227341 709
+memory usage:4748132K/4748136K + 5022892K/5022892K
+
+Returns 1 results elapsed time: 227694 710
+memory usage:4748337K/4748341K + 5023109K/5023109K
+
+Returns 1 results elapsed time: 229150 711
+memory usage:4749578K/4749582K + 5024395K/5024395K
+
+Returns 1 results elapsed time: 229228 712
+memory usage:4749721K/4749725K + 5024550K/5024550K
+
+Returns 1 results elapsed time: 229271 713
+memory usage:4749819K/4749824K + 5024628K/5024628K
+
+Returns 1 results elapsed time: 229298 714
+memory usage:4749889K/4749893K + 5024706K/5024706K
+
+Returns 1 results elapsed time: 229334 715
+memory usage:4749959K/4749963K + 5024780K/5024780K
+
+Returns 1 results elapsed time: 229438 716
+memory usage:4750127K/4750131K + 5024927K/5024927K
+
+Returns 1 results elapsed time: 229461 717
+memory usage:4750127K/4750131K + 5024927K/5024927K
+
+Returns 1 results elapsed time: 229556 718
+memory usage:4750258K/4750262K + 5025001K/5025001K
+
+Returns 1 results elapsed time: 229603 719
+memory usage:4750258K/4750262K + 5025001K/5025001K
+
+Returns 1 results elapsed time: 229647 720
+memory usage:4750258K/4750262K + 5025001K/5025001K
+
+Returns 1 results elapsed time: 229704 721
+memory usage:4750622K/4750626K + 5025443K/5025443K
+
+Returns 1 results elapsed time: 229730 722
+memory usage:4750622K/4750626K + 5025443K/5025443K
+
+Returns 1 results elapsed time: 230034 723
+memory usage:4750626K/4750630K + 5025443K/5025443K
+
+Returns 1 results elapsed time: 230070 724
+memory usage:4750626K/4750630K + 5025443K/5025443K
+
+Returns 1 results elapsed time: 230463 725
+memory usage:4751245K/4751249K + 5026185K/5026185K
+
+Returns 1 results elapsed time: 230538 726
+memory usage:4751245K/4751249K + 5026185K/5026185K
+
+Returns 1 results elapsed time: 230616 727
+memory usage:4751245K/4751249K + 5026185K/5026185K
+
+Returns 1 results elapsed time: 230691 728
+memory usage:4751249K/4751253K + 5026185K/5026185K
+
+Returns 1 results elapsed time: 230759 729
+memory usage:4751249K/4751253K + 5026185K/5026185K
+
+Returns 1 results elapsed time: 230818 730
+memory usage:4751249K/4751253K + 5026185K/5026185K
+
+Returns 1 results elapsed time: 230866 731
+memory usage:4751249K/4751253K + 5026185K/5026185K
+
+Returns 1 results elapsed time: 230944 732
+memory usage:4751249K/4751253K + 5026185K/5026185K
+
+Returns 1 results elapsed time: 231245 733
+memory usage:4751253K/4751257K + 5026185K/5026185K
+
+Returns 1 results elapsed time: 231261 734
+memory usage:4751253K/4751257K + 5026185K/5026185K
+
+Returns 1 results elapsed time: 231485 735
+memory usage:4752048K/4752052K + 5027049K/5027049K
+
+Returns 1 results elapsed time: 231763 736
+memory usage:4752048K/4752052K + 5027049K/5027049K
+
+Returns 1 results elapsed time: 231829 737
+memory usage:4752048K/4752052K + 5027049K/5027049K
+
+Returns 1 results elapsed time: 231885 738
+memory usage:4752175K/4752179K + 5027184K/5027184K
+
+Returns 1 results elapsed time: 231938 739
+memory usage:4752175K/4752179K + 5027184K/5027184K
+
+Returns 1 results elapsed time: 232067 740
+memory usage:4752175K/4752179K + 5027184K/5027184K
+
+Returns 1 results elapsed time: 232189 741
+memory usage:4752175K/4752179K + 5027184K/5027184K
+
+Returns 1 results elapsed time: 232197 742
+memory usage:4752175K/4752179K + 5027184K/5027184K
+
+Returns 1 results elapsed time: 232208 743
+memory usage:4752175K/4752179K + 5027184K/5027184K
+
+Returns 1 results elapsed time: 232255 744
+memory usage:4752175K/4752179K + 5027184K/5027184K
+
+Returns 1 results elapsed time: 232538 745
+memory usage:4752449K/4752453K + 5027454K/5027454K
+
+Returns 1 results elapsed time: 232858 746
+memory usage:4752449K/4752453K + 5027454K/5027454K
+
+Returns 1 results elapsed time: 233024 747
+memory usage:4752449K/4752453K + 5027454K/5027454K
+
+Returns 1 results elapsed time: 233372 748
+memory usage:4752449K/4752453K + 5027454K/5027454K
+
+Returns 1 results elapsed time: 233415 749
+memory usage:4752449K/4752453K + 5027454K/5027454K
+
+Returns 1 results elapsed time: 233653 750
+memory usage:4752453K/4752457K + 5027454K/5027454K
+
+Returns 1 results elapsed time: 233897 751
+memory usage:4754030K/4754034K + 5029146K/5029146K
+
+Returns 1 results elapsed time: 234168 752
+memory usage:4754034K/4754038K + 5029146K/5029146K
+
+Returns 1 results elapsed time: 234203 753
+memory usage:4754034K/4754038K + 5029146K/5029146K
+
+Returns 1 results elapsed time: 234446 754
+memory usage:4754034K/4754038K + 5029146K/5029146K
+
+Returns 1 results elapsed time: 234515 755
+memory usage:4754034K/4754038K + 5029146K/5029146K
+
+Returns 1 results elapsed time: 234581 756
+memory usage:4754034K/4754038K + 5029146K/5029146K
+
+Returns 1 results elapsed time: 234646 757
+memory usage:4754034K/4754038K + 5029146K/5029146K
+
+Returns 1 results elapsed time: 234708 758
+memory usage:4754034K/4754038K + 5029146K/5029146K
+
+Returns 1 results elapsed time: 234770 759
+memory usage:4754034K/4754038K + 5029146K/5029146K
+
+Returns 1 results elapsed time: 234823 760
+memory usage:4754034K/4754038K + 5029146K/5029146K
+
+Returns 1 results elapsed time: 235025 761
+memory usage:4754706K/4754710K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 235091 762
+memory usage:4754706K/4754710K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 235223 763
+memory usage:4754706K/4754710K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 235653 764
+memory usage:4754706K/4754710K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 235665 765
+memory usage:4754706K/4754710K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 235803 766
+memory usage:4754710K/4754714K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 235893 767
+memory usage:4754710K/4754714K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 235979 768
+memory usage:4754710K/4754714K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 236052 769
+memory usage:4754710K/4754714K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 236123 770
+memory usage:4754710K/4754714K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 236192 771
+memory usage:4754710K/4754714K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 236273 772
+memory usage:4754710K/4754714K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 236309 773
+memory usage:4754710K/4754714K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 236337 774
+memory usage:4754710K/4754714K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 236575 775
+memory usage:4754714K/4754718K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 236592 776
+memory usage:4754714K/4754718K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 236606 777
+memory usage:4754714K/4754718K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 236620 778
+memory usage:4754714K/4754718K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 236671 779
+memory usage:4754714K/4754718K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 236740 780
+memory usage:4754714K/4754718K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 236804 781
+memory usage:4754743K/4754747K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 236852 782
+memory usage:4754743K/4754747K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 236894 783
+memory usage:4754743K/4754747K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 237048 784
+memory usage:4754743K/4754747K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 237059 785
+memory usage:4754743K/4754747K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 237095 786
+memory usage:4754743K/4754747K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 237253 787
+memory usage:4754743K/4754747K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 237354 788
+memory usage:4754743K/4754747K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 237367 789
+memory usage:4754743K/4754747K + 5029851K/5029851K
+
+Returns 1 results elapsed time: 237642 790
+memory usage:4754944K/4754948K + 5030137K/5030137K
+
+Returns 1 results elapsed time: 237734 791
+memory usage:4754989K/4754993K + 5030137K/5030137K
+
+Returns 1 results elapsed time: 237749 792
+memory usage:4754989K/4754993K + 5030137K/5030137K
+
+Returns 1 results elapsed time: 237765 793
+memory usage:4754989K/4754993K + 5030137K/5030137K
+
+Returns 1 results elapsed time: 237780 794
+memory usage:4754989K/4754993K + 5030137K/5030137K
+
+Returns 1 results elapsed time: 237899 795
+memory usage:4756434K/4756439K + 5031616K/5031616K
+
+Returns 1 results elapsed time: 238000 796
+memory usage:4756434K/4756439K + 5031616K/5031616K
+
+Returns 1 results elapsed time: 238023 797
+memory usage:4756434K/4756439K + 5031616K/5031616K
+
+Returns 1 results elapsed time: 238069 798
+memory usage:4756434K/4756439K + 5031616K/5031616K
+
+Returns 1 results elapsed time: 238093 799
+memory usage:4756434K/4756439K + 5031616K/5031616K
+
+Returns 1 results elapsed time: 238116 800
+memory usage:4756434K/4756439K + 5031616K/5031616K
+
+Returns 1 results elapsed time: 238135 801
+memory usage:4756434K/4756439K + 5031616K/5031616K
+
+Returns 1 results elapsed time: 238525 802
+memory usage:4756434K/4756439K + 5031616K/5031616K
+
+Returns 1 results elapsed time: 238819 803
+memory usage:4757704K/4757708K + 5033082K/5033082K
+
+Returns 1 results elapsed time: 238931 804
+memory usage:4757700K/4757708K + 5033082K/5033082K
+
+Returns 1 results elapsed time: 239044 805
+memory usage:4757831K/4757835K + 5033218K/5033218K
+
+Returns 1 results elapsed time: 239155 806
+memory usage:4757831K/4757835K + 5033218K/5033218K
+
+Returns 1 results elapsed time: 239270 807
+memory usage:4757962K/4757966K + 5033353K/5033353K
+
+Returns 1 results elapsed time: 239472 808
+memory usage:4759449K/4759453K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 239500 809
+memory usage:4759449K/4759453K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 239513 810
+memory usage:4759449K/4759453K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 239584 811
+memory usage:4759449K/4759453K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 239726 812
+memory usage:4759449K/4759453K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 239739 813
+memory usage:4759449K/4759453K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 239798 814
+memory usage:4759449K/4759453K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 239832 815
+memory usage:4759449K/4759453K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 239895 816
+memory usage:4759449K/4759453K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 240099 817
+memory usage:4759453K/4759457K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 240107 818
+memory usage:4759453K/4759457K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 240277 819
+memory usage:4759445K/4759457K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 240389 820
+memory usage:4759449K/4759457K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 240502 821
+memory usage:4759453K/4759457K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 240613 822
+memory usage:4759453K/4759457K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 240697 823
+memory usage:4759453K/4759457K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 240748 824
+memory usage:4759453K/4759457K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 240857 825
+memory usage:4759453K/4759457K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 240878 826
+memory usage:4759453K/4759457K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 241025 827
+memory usage:4759449K/4759457K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 241054 828
+memory usage:4759449K/4759457K + 5034876K/5034876K
+
+Returns 1 results elapsed time: 241142 829
+memory usage:4759502K/4759506K + 5035020K/5035020K
+
+End of program! elapsed time: 241175 829
+memory usage:4759502K/4759506K + 5035020K/5035020K
+

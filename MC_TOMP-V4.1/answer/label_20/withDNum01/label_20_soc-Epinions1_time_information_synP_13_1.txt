@@ -1,0 +1,9 @@
+Returns 1 results elapsed time: 3107 1
+memory usage:45752K/1990303K + 47812K/2332434K
+
+Returns 1 results elapsed time: 19791 2
+memory usage:57995K/10684223K + 66326K/12133007K
+
+Returns 1 results elapsed time: 21227 3
+memory usage:477667K/10684223K + 525918K/12133007K
+

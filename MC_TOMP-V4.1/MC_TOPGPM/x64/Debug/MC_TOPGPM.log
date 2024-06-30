@@ -1,0 +1,43 @@
+﻿生成启动时间为 2022/3/9 9:33:43。
+     1>项目“E:\experimental\experiment3\compare2\MC_TOMP-V4.1\MC_TOPGPM\MC_TOPGPM.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (MC_NTSS_MN4.vcxproj, MC_NTSS_MN41.vcxproj, MC_TOPGPM_FUZZY.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I"D:\Program Files\MySQL\MySQL Connector C 6.1\include" /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt block_read.cpp MC_TOPGPM.cpp pattern_graph_read.cpp TopologicalOrder_matching.cpp txt_operation.cpp
+         txt_operation.cpp
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\txt_operation.cpp(17): warning C4101: “flag”: 未引用的局部变量
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\txt_operation.cpp(50): warning C4101: “flag”: 未引用的局部变量
+         TopologicalOrder_matching.cpp
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\topologicalorder_matching.cpp(312): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\topologicalorder_matching.cpp(349): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\topologicalorder_matching.cpp(353): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\topologicalorder_matching.cpp(426): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\topologicalorder_matching.cpp(480): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\topologicalorder_matching.cpp(484): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\topologicalorder_matching.cpp(794): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\topologicalorder_matching.cpp(1049): warning C4244: “=”: 从“SIZE_T”转换到“int”，可能丢失数据
+         pattern_graph_read.cpp
+         MC_TOPGPM.cpp
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\mc_topgpm.cpp(83): warning C4244: “参数”: 从“double”转换到“time_t”，可能丢失数据
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\mc_topgpm.cpp(92): warning C4244: “参数”: 从“double”转换到“time_t”，可能丢失数据
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\mc_topgpm.cpp(95): warning C4244: “参数”: 从“double”转换到“time_t”，可能丢失数据
+         block_read.cpp
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\block_read.cpp(20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\block_read.cpp(8): warning C4101: “flag”: 未引用的局部变量
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\block_read.cpp(52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\block_read.cpp(41): warning C4101: “flag”: 未引用的局部变量
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\block_read.cpp(110): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>e:\experimental\experiment3\compare2\mc_tomp-v4.1\mc_topgpm\block_read.cpp(99): warning C4101: “flag”: 未引用的局部变量
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\experimental\experiment3\compare2\MC_TOMP-V4.1\x64\Debug\MC_TOMP_MN41.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Program Files\MySQL\MySQL Connector C 6.1\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib libmysql.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\experimental\experiment3\compare2\MC_TOMP-V4.1\x64\Debug\MC_TOMP_MN41.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\experimental\experiment3\compare2\MC_TOMP-V4.1\x64\Debug\MC_TOMP_MN41.lib" /MACHINE:X64 x64\Debug\block_read.obj
+         x64\Debug\MC_TOPGPM.obj
+         x64\Debug\pattern_graph_read.obj
+         x64\Debug\TopologicalOrder_matching.obj
+         x64\Debug\txt_operation.obj
+           正在创建库 E:\experimental\experiment3\compare2\MC_TOMP-V4.1\x64\Debug\MC_TOMP_MN41.lib 和对象 E:\experimental\experiment3\compare2\MC_TOMP-V4.1\x64\Debug\MC_TOMP_MN41.exp
+         MC_TOPGPM.vcxproj -> E:\experimental\experiment3\compare2\MC_TOMP-V4.1\x64\Debug\MC_TOMP_MN41.exe
+     1>已完成生成项目“E:\experimental\experiment3\compare2\MC_TOMP-V4.1\MC_TOPGPM\MC_TOPGPM.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.67

@@ -1,0 +1,6 @@
+End of program! elapsed time: 13 0
+memory usage:67592K/67596K + 68648K/68648K
+
+End of program! elapsed time: 14 0
+memory usage:67518K/67522K + 68567K/68567K
+

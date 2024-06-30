@@ -1,0 +1,27 @@
+﻿生成启动时间为 2022/4/19 14:55:45。
+     1>项目“E:\experimental\experiment3\compare2\MC_TOMP-V4.1\MC_TOPGPM\MC_TOPGPM.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (MC_NTSS_MN41.vcxproj, MC_TOPGPM_FUZZY.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I"D:\Program Files\MySQL\MySQL Connector C 6.1\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt MC_TOPGPM.cpp
+         MC_TOPGPM.cpp
+     1>MC_TOPGPM.cpp(83): warning C4244: “参数”: 从“double”转换到“time_t”，可能丢失数据
+     1>MC_TOPGPM.cpp(92): warning C4244: “参数”: 从“double”转换到“time_t”，可能丢失数据
+     1>MC_TOPGPM.cpp(95): warning C4244: “参数”: 从“double”转换到“time_t”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\experimental\experiment3\compare2\MC_TOMP-V4.1\x64\Release\MC_TOMP_MN41.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"D:\Program Files\MySQL\MySQL Connector C 6.1\lib" libmysql.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\experimental\experiment3\compare2\MC_TOMP-V4.1\x64\Release\MC_TOMP_MN41.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\experimental\experiment3\compare2\MC_TOMP-V4.1\x64\Release\MC_TOMP_MN41.lib" /MACHINE:X64 x64\Release\block_read.obj
+         x64\Release\MC_TOPGPM.obj
+         x64\Release\pattern_graph_read.obj
+         x64\Release\TopologicalOrder_matching.obj
+         x64\Release\txt_operation.obj
+           正在创建库 E:\experimental\experiment3\compare2\MC_TOMP-V4.1\x64\Release\MC_TOMP_MN41.lib 和对象 E:\experimental\experiment3\compare2\MC_TOMP-V4.1\x64\Release\MC_TOMP_MN41.exp
+         正在生成代码
+         1 of 1943 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         已完成代码的生成
+         MC_TOPGPM.vcxproj -> E:\experimental\experiment3\compare2\MC_TOMP-V4.1\x64\Release\MC_TOMP_MN41.exe
+     1>已完成生成项目“E:\experimental\experiment3\compare2\MC_TOMP-V4.1\MC_TOPGPM\MC_TOPGPM.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.10

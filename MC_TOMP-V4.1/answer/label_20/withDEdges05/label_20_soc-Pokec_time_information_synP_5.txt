@@ -1,0 +1,18 @@
+Returns 1 results elapsed time: 2131984 1
+memory usage:2528092K/2538307K + 2713251K/2724986K
+
+Returns 1 results elapsed time: 2696612 2
+memory usage:2529177K/2540818K + 2713251K/2725888K
+
+Returns 1 results elapsed time: 2909245 3
+memory usage:2530029K/2540818K + 2713251K/2725888K
+
+Returns 1 results elapsed time: 3177674 4
+memory usage:2530840K/2540818K + 2713894K/2725888K
+
+Returns 1 results elapsed time: 6394830 5
+memory usage:2537836K/2540994K + 2718183K/2725888K
+
+End of program! elapsed time: 7285859 5
+memory usage:2538102K/2541154K + 2718449K/2725888K
+
