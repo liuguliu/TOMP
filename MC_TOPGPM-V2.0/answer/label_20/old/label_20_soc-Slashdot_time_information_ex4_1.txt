@@ -1,0 +1,381 @@
+Returns 10 results elapsed time: 8312 10
+memory usage:37498K/37502K + 36544K/36544K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 10146 18
+memory usage:37580K/37584K + 36663K/36663K
+
+Returns 10 results elapsed time: 10256 20
+memory usage:37634K/37638K + 36708K/36708K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 11516 24
+memory usage:37769K/37773K + 36843K/36843K
+
+Returns 10 results elapsed time: 11636 30
+memory usage:37769K/37773K + 36843K/36843K
+
+Returns 10 results elapsed time: 12561 40
+memory usage:37769K/37773K + 36843K/36843K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 13440 42
+memory usage:37797K/37801K + 36843K/36843K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 85442 48
+memory usage:37883K/37937K + 36888K/36978K
+
+Returns 10 results elapsed time: 131278 50
+memory usage:37883K/37937K + 36888K/36978K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 132385 52
+memory usage:37883K/37937K + 36888K/36978K
+
+Returns 10 results elapsed time: 368351 60
+memory usage:37883K/37937K + 36888K/36978K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 368388 64
+memory usage:37883K/37937K + 36888K/36978K
+
+Returns 10 results elapsed time: 368528 70
+memory usage:37883K/37937K + 36888K/36978K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 368612 76
+memory usage:37883K/37937K + 36888K/36978K
+
+Returns 10 results elapsed time: 376969 80
+memory usage:38027K/38035K + 37023K/37023K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 376977 82
+memory usage:38027K/38035K + 37023K/37023K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 378295 88
+memory usage:38027K/38035K + 37023K/37023K
+
+Returns 10 results elapsed time: 398742 90
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 398923 94
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 405511 100
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 435859 106
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 442728 110
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 443297 112
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 512690 120
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 514509 126
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 514839 130
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 517170 134
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 518273 140
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 519854 142
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 555002 144
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 563740 150
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 565389 160
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 569501 164
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 571166 170
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 572632 172
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 641579 180
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 641587 190
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 642579 192
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 814983 200
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 814999 210
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 815986 212
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 972495 214
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 990342 216
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 991342 218
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1001977 220
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 1002838 224
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 1404123 228
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1404516 230
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 1406514 232
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 1450431 236
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1451062 240
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 1453043 244
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 1457564 248
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1897161 250
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1897175 260
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 1897372 268
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1898230 270
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1898235 280
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1898394 290
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 1898884 298
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1899494 300
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1899532 310
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1899644 320
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 1899729 322
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1903033 330
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 1903163 336
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1906844 340
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1906875 350
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 1907001 356
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1907018 360
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1907103 370
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1907108 380
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 1907365 386
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1907549 390
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1907570 400
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1907649 410
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 1908351 420
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 1908435 424
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 2082358 430
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 2082852 432
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 2131043 434
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 2131131 440
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 2132118 442
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 2138273 444
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 2162570 448
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 2770131 450
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 2770149 460
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 2771326 470
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 2771843 472
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 2857325 478
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 2857409 480
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 2857518 484
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 2875375 490
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 2875470 496
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 2883802 500
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 2884079 508
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 2887647 510
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 2887691 514
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 2888189 520
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 3003333 522
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 3124541 524
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 3894172 526
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 3894243 528
+memory usage:38166K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3976977 530
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3976991 540
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3977018 550
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3977056 560
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3977188 570
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3977668 580
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3977728 590
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3977763 600
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3977909 610
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 3978268 612
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3978415 620
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3978442 630
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3978507 640
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3978644 650
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 3978990 654
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3979148 660
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3979186 670
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3979221 680
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3979233 690
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 3979833 696
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3990671 700
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3990713 710
+memory usage:38162K/38170K + 37158K/37158K
+
+Returns 10 results elapsed time: 3990751 720
+memory usage:38162K/38170K + 37158K/37158K
+
+End of program! elapsed time: 4124002 720
+memory usage:38162K/38170K + 37158K/37158K
+

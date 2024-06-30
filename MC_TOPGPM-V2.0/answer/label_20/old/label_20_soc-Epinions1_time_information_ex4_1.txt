@@ -1,0 +1,54 @@
+Returns the same first edge result, or the same first vertex result elapsed time: 8200 8
+memory usage:23556K/23560K + 21745K/21745K
+
+Returns 10 results elapsed time: 10278 10
+memory usage:23617K/23621K + 21807K/21807K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 12424 16
+memory usage:23760K/23764K + 21946K/21946K
+
+Returns 10 results elapsed time: 31775 20
+memory usage:23830K/23834K + 22016K/22016K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 33780 22
+memory usage:23830K/23834K + 22016K/22016K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 35679 26
+memory usage:23900K/23904K + 22085K/22085K
+
+Returns 10 results elapsed time: 36345 30
+memory usage:23900K/23904K + 22085K/22085K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 244768 32
+memory usage:24055K/24059K + 22196K/22196K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 547121 34
+memory usage:24055K/24059K + 22196K/22196K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 548611 36
+memory usage:24055K/24059K + 22196K/22196K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 586949 38
+memory usage:24055K/24059K + 22196K/22196K
+
+Returns 10 results elapsed time: 588672 40
+memory usage:24055K/24059K + 22196K/22196K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 591225 44
+memory usage:24055K/24059K + 22196K/22196K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 591702 46
+memory usage:24055K/24059K + 22196K/22196K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 595502 48
+memory usage:24055K/24059K + 22196K/22196K
+
+Returns 10 results elapsed time: 610475 50
+memory usage:24055K/24059K + 22196K/22196K
+
+Returns the same first edge result, or the same first vertex result elapsed time: 615227 52
+memory usage:24055K/24059K + 22196K/22196K
+
+End of program! elapsed time: 663973 52
+memory usage:24055K/24059K + 22196K/22196K
+

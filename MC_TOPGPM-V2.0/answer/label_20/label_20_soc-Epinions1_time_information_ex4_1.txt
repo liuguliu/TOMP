@@ -1,0 +1,18 @@
+Returns the same first vertex result elapsed time: 5832 1
+memory usage:23277K/23281K + 21479K/21479K
+
+Returns the same first vertex result elapsed time: 132485 2
+memory usage:23232K/23285K + 21389K/21483K
+
+Returns the same first vertex result elapsed time: 170897 3
+memory usage:23232K/23285K + 21389K/21483K
+
+Returns the same first vertex result elapsed time: 171407 4
+memory usage:23232K/23285K + 21389K/21483K
+
+Returns the same first vertex result elapsed time: 177378 5
+memory usage:23232K/23285K + 21389K/21483K
+
+End of program! elapsed time: 226897 5
+memory usage:23232K/23285K + 21389K/21483K
+

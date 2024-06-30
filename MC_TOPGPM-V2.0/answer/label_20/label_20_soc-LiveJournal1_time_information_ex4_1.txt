@@ -1,0 +1,3681 @@
+Returns the same first vertex result elapsed time: 140544 1
+memory usage:2349211K/2349215K + 2487701K/2487701K
+
+Returns the same first vertex result elapsed time: 1579878 2
+memory usage:2349211K/2349215K + 2487701K/2487701K
+
+Returns the same first vertex result elapsed time: 22813593 3
+memory usage:2349494K/2349498K + 2487848K/2487848K
+
+Returns the same first vertex result elapsed time: 23166846 4
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 26641568 5
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 26785106 6
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 27013855 7
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 27031653 8
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 27264510 9
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 27266040 10
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 27334058 11
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 27365290 12
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 27465604 13
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 27465734 14
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 27465913 15
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 27466108 16
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 27466203 17
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 27466367 18
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 27466530 19
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 28166874 20
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 28176029 21
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 29556325 22
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 29557873 23
+memory usage:2351255K/2351263K + 2489679K/2489679K
+
+Returns the same first vertex result elapsed time: 31106847 24
+memory usage:2352066K/2352074K + 2490515K/2490515K
+
+Returns the same first vertex result elapsed time: 31107930 25
+memory usage:2352066K/2352074K + 2490515K/2490515K
+
+Returns the same first vertex result elapsed time: 32678553 26
+memory usage:2352066K/2352074K + 2490515K/2490515K
+
+Returns the same first vertex result elapsed time: 32943994 27
+memory usage:2352066K/2352074K + 2490515K/2490515K
+
+Returns the same first vertex result elapsed time: 32944217 28
+memory usage:2352066K/2352074K + 2490515K/2490515K
+
+Returns the same first vertex result elapsed time: 33747066 29
+memory usage:2352066K/2352074K + 2490515K/2490515K
+
+Returns the same first vertex result elapsed time: 33750902 30
+memory usage:2353963K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 35943314 31
+memory usage:249552K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 37953701 32
+memory usage:303251K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 42219983 33
+memory usage:437739K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 42220160 34
+memory usage:439193K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 42220256 35
+memory usage:439595K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 42230238 36
+memory usage:459456K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 42241970 37
+memory usage:467988K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 42281752 38
+memory usage:486055K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 42466266 39
+memory usage:588386K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 44863738 40
+memory usage:634654K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 46511029 41
+memory usage:231960K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 46559985 42
+memory usage:253136K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 47260894 43
+memory usage:397774K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 47433109 44
+memory usage:446033K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 47456044 45
+memory usage:542539K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 48107660 46
+memory usage:592723K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 48416676 47
+memory usage:629919K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 48762693 48
+memory usage:659398K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 48783653 49
+memory usage:681238K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 48787405 50
+memory usage:691183K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 53315621 51
+memory usage:771870K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 53447249 52
+memory usage:792694K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 53491223 53
+memory usage:809455K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 54017779 54
+memory usage:831086K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 59740504 55
+memory usage:893857K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 60488155 56
+memory usage:946634K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 60490825 57
+memory usage:954613K/2353971K + 2492559K/2492559K
+
+Returns the same first vertex result elapsed time: 60843225 58
+memory usage:1077977K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 60844115 59
+memory usage:1078181K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 60848521 60
+memory usage:1079095K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 60966788 61
+memory usage:1087918K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 61109860 62
+memory usage:1090486K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 61112995 63
+memory usage:1090875K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 61344411 64
+memory usage:1095131K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 61539165 65
+memory usage:1096187K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 61803073 66
+memory usage:1099030K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 61804488 67
+memory usage:1099436K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 62341809 68
+memory usage:1105952K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 62656761 69
+memory usage:1111445K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 62657802 70
+memory usage:1111687K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 62661738 71
+memory usage:1113325K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 62848345 72
+memory usage:1113800K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 63413432 73
+memory usage:1116749K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 64427485 74
+memory usage:1121206K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 64449392 75
+memory usage:1122205K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 64453147 76
+memory usage:1122332K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 64934337 77
+memory usage:1123340K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 67285794 78
+memory usage:1125818K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 67353330 79
+memory usage:1128673K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 67575468 80
+memory usage:1129185K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 67823960 81
+memory usage:1130123K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 67846953 82
+memory usage:1132969K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 69826782 83
+memory usage:1135546K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 70259884 84
+memory usage:1139982K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 70757202 85
+memory usage:1141178K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 70757389 86
+memory usage:1141878K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 70758018 87
+memory usage:1142087K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 70762989 88
+memory usage:1142538K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 70769911 89
+memory usage:1144569K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 70828567 90
+memory usage:1145970K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 70876184 91
+memory usage:1147981K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 70891267 92
+memory usage:1149042K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 72234777 93
+memory usage:1151299K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 72236915 94
+memory usage:1151348K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 72241144 95
+memory usage:1151705K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 72323444 96
+memory usage:1152503K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 73158625 97
+memory usage:1153200K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 73164636 98
+memory usage:1153658K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 73663307 99
+memory usage:1154375K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 98102888 100
+memory usage:1164521K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 98274071 101
+memory usage:1164795K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 99664210 102
+memory usage:1166704K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 99976482 103
+memory usage:1167650K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 99978236 104
+memory usage:1167908K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 99980696 105
+memory usage:1168142K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 99982467 106
+memory usage:1168297K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 116414456 107
+memory usage:159260K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 116416735 108
+memory usage:172711K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 116423303 109
+memory usage:238039K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 116783305 110
+memory usage:250056K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 117149247 111
+memory usage:279474K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 117158678 112
+memory usage:289529K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 118245563 113
+memory usage:316977K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 118247227 114
+memory usage:319062K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 118455783 115
+memory usage:321421K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 118524176 116
+memory usage:334950K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 119073556 117
+memory usage:358141K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 119290265 118
+memory usage:363511K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 119364061 119
+memory usage:370991K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 119785237 120
+memory usage:381255K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 119785493 121
+memory usage:381829K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 119814153 122
+memory usage:383279K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 120388271 123
+memory usage:388218K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 120803403 124
+memory usage:399568K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 124945356 125
+memory usage:415641K/2353971K + 2509058K/2509058K
+
+Returns the same first vertex result elapsed time: 126461585 126
+memory usage:413487K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 126462768 127
+memory usage:413753K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 126471154 128
+memory usage:415453K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 156668081 129
+memory usage:183713K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160307519 130
+memory usage:341491K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160327381 131
+memory usage:344788K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160339428 132
+memory usage:350486K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160450381 133
+memory usage:354140K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160592777 134
+memory usage:383045K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160597333 135
+memory usage:384823K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160599428 136
+memory usage:387276K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160600407 137
+memory usage:387575K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160601749 138
+memory usage:388816K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160613218 139
+memory usage:394719K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160624393 140
+memory usage:395485K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160732685 141
+memory usage:396660K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160734344 142
+memory usage:396726K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160735888 143
+memory usage:397242K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160738073 144
+memory usage:397250K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160740547 145
+memory usage:398057K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160742441 146
+memory usage:398057K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160744163 147
+memory usage:398069K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160746144 148
+memory usage:398086K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160747517 149
+memory usage:398127K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160749145 150
+memory usage:398139K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160752775 151
+memory usage:398229K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160754258 152
+memory usage:398229K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 160756286 153
+memory usage:398311K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 161927259 154
+memory usage:419475K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 162084997 155
+memory usage:435929K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 162132624 156
+memory usage:439291K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 162209030 157
+memory usage:450097K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 162223771 158
+memory usage:460251K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 182361738 159
+memory usage:168513K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 182382587 160
+memory usage:247939K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 183303642 161
+memory usage:276201K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 184808055 162
+memory usage:323440K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 184865038 163
+memory usage:334311K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 185291661 164
+memory usage:341655K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 185296287 165
+memory usage:348512K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 185305663 166
+memory usage:353288K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 185307781 167
+memory usage:356917K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 185656266 168
+memory usage:364355K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 185870360 169
+memory usage:374296K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 186507404 170
+memory usage:394432K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 186840498 171
+memory usage:415490K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 186858671 172
+memory usage:416198K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 187054566 173
+memory usage:419508K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 187094419 174
+memory usage:420458K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 187407206 175
+memory usage:429092K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 187413721 176
+memory usage:430723K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 191557541 177
+memory usage:439672K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 191560798 178
+memory usage:442171K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 194478007 179
+memory usage:129150K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 205693977 180
+memory usage:142270K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 206425532 181
+memory usage:214876K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 206426843 182
+memory usage:219492K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 206430817 183
+memory usage:230711K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 206446383 184
+memory usage:233476K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 206722772 185
+memory usage:238710K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 207076651 186
+memory usage:260956K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 207109480 187
+memory usage:273354K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 208997326 188
+memory usage:300126K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 211783090 189
+memory usage:334184K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 212429766 190
+memory usage:341757K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 212438591 191
+memory usage:343887K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 213306144 192
+memory usage:358506K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 213865613 193
+memory usage:370323K/2353971K + 2509074K/2509074K
+
+Returns the same first vertex result elapsed time: 274968883 194
+memory usage:177143K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 275709929 195
+memory usage:247496K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 276417425 196
+memory usage:301539K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 276418076 197
+memory usage:306774K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 276435628 198
+memory usage:324837K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 276438280 199
+memory usage:328577K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 276442163 200
+memory usage:334422K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 276443699 201
+memory usage:337190K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 276452592 202
+memory usage:342192K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 276955106 203
+memory usage:344662K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 276955400 204
+memory usage:347209K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 277294666 205
+memory usage:369221K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 277390229 206
+memory usage:380440K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 279779944 207
+memory usage:135073K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 280301721 208
+memory usage:190345K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 280771858 209
+memory usage:250687K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 280774811 210
+memory usage:257884K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 281370624 211
+memory usage:457338K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 287370046 212
+memory usage:113745K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 287388590 213
+memory usage:157290K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 287389471 214
+memory usage:161902K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 287389599 215
+memory usage:162021K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 293178480 216
+memory usage:196460K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 293269654 217
+memory usage:229601K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 294761538 218
+memory usage:322482K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 297108623 219
+memory usage:394620K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 297529388 220
+memory usage:456306K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 297558540 221
+memory usage:459251K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 297558923 222
+memory usage:461328K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 298068553 223
+memory usage:508755K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 303837080 224
+memory usage:520691K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 306340897 225
+memory usage:612143K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 306865854 226
+memory usage:690548K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 307067312 227
+memory usage:722051K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 307500160 228
+memory usage:751747K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 307535134 229
+memory usage:761298K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 307826533 230
+memory usage:776286K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 308111317 231
+memory usage:832397K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 310541626 232
+memory usage:901742K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 310542747 233
+memory usage:911585K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 310591751 234
+memory usage:915705K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 311150923 235
+memory usage:953192K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 311854502 236
+memory usage:962768K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 311903392 237
+memory usage:968658K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 313375255 238
+memory usage:980504K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 314955852 239
+memory usage:989433K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 314957703 240
+memory usage:989958K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 315121476 241
+memory usage:1000071K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 315178790 242
+memory usage:1004318K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 315180519 243
+memory usage:1006854K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 316455530 244
+memory usage:1013563K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 316480860 245
+memory usage:1018744K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 316491833 246
+memory usage:1020186K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 316533466 247
+memory usage:1022517K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 316584130 248
+memory usage:1026170K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 316735471 249
+memory usage:1039413K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 316827454 250
+memory usage:1044619K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 318597830 251
+memory usage:1065955K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 318730371 252
+memory usage:1080254K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 318738295 253
+memory usage:1093947K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 319688022 254
+memory usage:1121538K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 319688990 255
+memory usage:1122557K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 319821385 256
+memory usage:1130135K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 319822010 257
+memory usage:1130663K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 319826206 258
+memory usage:1132290K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 319933631 259
+memory usage:1141190K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 319935698 260
+memory usage:1141407K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 319939946 261
+memory usage:1142763K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 319942603 262
+memory usage:1143484K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 319943786 263
+memory usage:1143963K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 319961110 264
+memory usage:1157148K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 320278623 265
+memory usage:1162027K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 320283247 266
+memory usage:1172307K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 320604598 267
+memory usage:1178554K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 320900388 268
+memory usage:1186144K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 321055853 269
+memory usage:1194979K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 321550251 270
+memory usage:1204183K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 321695622 271
+memory usage:1207431K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 321710081 272
+memory usage:1209253K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 322748638 273
+memory usage:1244758K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 323607873 274
+memory usage:1275052K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 323846447 275
+memory usage:1285562K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 324030735 276
+memory usage:1302663K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 324078395 277
+memory usage:1309642K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 324762648 278
+memory usage:1334468K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 324839143 279
+memory usage:1337688K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 324841126 280
+memory usage:1338015K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 324963622 281
+memory usage:1344974K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 324971489 282
+memory usage:1346580K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 325128361 283
+memory usage:1350647K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 325130147 284
+memory usage:1350778K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 325136627 285
+memory usage:1351770K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 325138128 286
+memory usage:1352015K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 325220978 287
+memory usage:1356644K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 325405913 288
+memory usage:1363173K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 325521125 289
+memory usage:1370472K/2353971K + 2509078K/2509111K
+
+Returns the same first vertex result elapsed time: 450546517 290
+memory usage:120721K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 450746156 291
+memory usage:264843K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 450746597 292
+memory usage:266375K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 451292696 293
+memory usage:321957K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 451310482 294
+memory usage:336838K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 451394100 295
+memory usage:345157K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 451539481 296
+memory usage:410656K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 451612216 297
+memory usage:466591K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 451894225 298
+memory usage:482799K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 451896855 299
+memory usage:496144K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 451897854 300
+memory usage:497745K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 454661368 301
+memory usage:596164K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 454710982 302
+memory usage:703926K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 456016446 303
+memory usage:503029K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 456021405 304
+memory usage:506597K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 456181333 305
+memory usage:577306K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 456189738 306
+memory usage:585822K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 460246831 307
+memory usage:353017K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 460255384 308
+memory usage:383676K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 463231674 309
+memory usage:445493K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 463302609 310
+memory usage:492388K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 463649475 311
+memory usage:540164K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 463704416 312
+memory usage:555118K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 463890478 313
+memory usage:628781K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 464986719 314
+memory usage:785690K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 465006337 315
+memory usage:802086K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 465008761 316
+memory usage:811814K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 467108202 317
+memory usage:875454K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 467109718 318
+memory usage:876457K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 467125298 319
+memory usage:908423K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 500130356 320
+memory usage:99246K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 502515975 321
+memory usage:148344K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 503575434 322
+memory usage:204242K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 504765583 323
+memory usage:297050K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 504860301 324
+memory usage:421793K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 504866501 325
+memory usage:449155K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 504894362 326
+memory usage:498544K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 505187968 327
+memory usage:696795K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513361724 328
+memory usage:734834K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513373805 329
+memory usage:744587K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513374777 330
+memory usage:745443K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513638793 331
+memory usage:780865K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513669342 332
+memory usage:799199K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513669787 333
+memory usage:799203K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513670233 334
+memory usage:799211K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513670691 335
+memory usage:799211K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513671088 336
+memory usage:799211K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513671481 337
+memory usage:799211K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513671619 338
+memory usage:800530K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513719206 339
+memory usage:822976K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513827507 340
+memory usage:840761K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513907664 341
+memory usage:854749K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513908072 342
+memory usage:854794K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513910678 343
+memory usage:861769K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513910809 344
+memory usage:861769K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513911029 345
+memory usage:861777K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513911265 346
+memory usage:861786K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 513978605 347
+memory usage:931995K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 514460312 348
+memory usage:944541K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 514985680 349
+memory usage:966115K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 515673357 350
+memory usage:981291K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 515713677 351
+memory usage:988114K/2353971K + 2509082K/2509111K
+
+Returns the same first vertex result elapsed time: 516024221 352
+memory usage:996409K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 516071480 353
+memory usage:1000095K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 516072147 354
+memory usage:1000165K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 516072682 355
+memory usage:1000185K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 516073674 356
+memory usage:1000329K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 518203025 357
+memory usage:682618K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 518203827 358
+memory usage:688541K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 518210787 359
+memory usage:713011K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 521153697 360
+memory usage:277934K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 521159402 361
+memory usage:302350K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 521203659 362
+memory usage:362647K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 521217545 363
+memory usage:367415K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 521229854 364
+memory usage:397266K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 522059010 365
+memory usage:466456K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 522074115 366
+memory usage:484790K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 522080012 367
+memory usage:502067K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 522145170 368
+memory usage:546590K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 522276643 369
+memory usage:605286K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 522283659 370
+memory usage:613670K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 522355497 371
+memory usage:619122K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 522715464 372
+memory usage:624861K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 522715927 373
+memory usage:625000K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 523173433 374
+memory usage:642940K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 531836689 375
+memory usage:213368K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 532325685 376
+memory usage:317997K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 532360607 377
+memory usage:338784K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 532362655 378
+memory usage:351465K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 532377188 379
+memory usage:366608K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 532396378 380
+memory usage:413528K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 533165501 381
+memory usage:515584K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 533240789 382
+memory usage:523415K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 533463576 383
+memory usage:565858K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 533465106 384
+memory usage:577933K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 533465284 385
+memory usage:579895K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 533530664 386
+memory usage:594477K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 533538467 387
+memory usage:615538K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 533757017 388
+memory usage:625033K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 533827266 389
+memory usage:653713K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 533943492 390
+memory usage:703942K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 534165970 391
+memory usage:762798K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 534292201 392
+memory usage:813993K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 534318339 393
+memory usage:842248K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 534328012 394
+memory usage:854777K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 534431632 395
+memory usage:883429K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 534520668 396
+memory usage:922210K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 535258703 397
+memory usage:946696K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 535565475 398
+memory usage:954527K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 535808754 399
+memory usage:957923K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 535810757 400
+memory usage:960847K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 535863598 401
+memory usage:963584K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 538274618 402
+memory usage:973467K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 538385982 403
+memory usage:973553K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 538880217 404
+memory usage:975802K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 538881856 405
+memory usage:975822K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 538894749 406
+memory usage:982355K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 538923597 407
+memory usage:983121K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 539405193 408
+memory usage:984793K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 539465703 409
+memory usage:985124K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 539466846 410
+memory usage:985137K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 539468591 411
+memory usage:987836K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 539471383 412
+memory usage:989511K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 539472729 413
+memory usage:989700K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 539500199 414
+memory usage:989851K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 539501314 415
+memory usage:990081K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 539726459 416
+memory usage:992215K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 539738181 417
+memory usage:993320K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 539739006 418
+memory usage:994869K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 539750791 419
+memory usage:996720K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 539759447 420
+memory usage:997339K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 539762398 421
+memory usage:1000112K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 539889548 422
+memory usage:1001959K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 539890578 423
+memory usage:1002143K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 542691619 424
+memory usage:1022001K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 542692345 425
+memory usage:1022164K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 542789391 426
+memory usage:1024106K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 542794256 427
+memory usage:1025912K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 542815498 428
+memory usage:623165K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 543849245 429
+memory usage:640311K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 544447109 430
+memory usage:648724K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 544449936 431
+memory usage:649691K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 544515801 432
+memory usage:657080K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 545382991 433
+memory usage:306429K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 545383995 434
+memory usage:308330K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 545423379 435
+memory usage:319504K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 546569889 436
+memory usage:334929K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 549017165 437
+memory usage:355938K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 549021118 438
+memory usage:358608K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 550039935 439
+memory usage:381317K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 550074442 440
+memory usage:389677K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 552428863 441
+memory usage:404090K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 552429347 442
+memory usage:404762K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 552968989 443
+memory usage:413868K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 555903334 444
+memory usage:357535K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 556433676 445
+memory usage:361476K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 556635548 446
+memory usage:314830K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 556711231 447
+memory usage:329097K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 556765412 448
+memory usage:338071K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 617632493 449
+memory usage:73838K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 618273810 450
+memory usage:83582K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 618349591 451
+memory usage:135491K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 618958395 452
+memory usage:138764K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 619062539 453
+memory usage:184492K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 619088541 454
+memory usage:209137K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 619176359 455
+memory usage:217448K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 620043744 456
+memory usage:237383K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 620076725 457
+memory usage:248221K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 620078213 458
+memory usage:248639K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 620967662 459
+memory usage:259538K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 621010777 460
+memory usage:282370K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 621824354 461
+memory usage:314060K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 622216476 462
+memory usage:329834K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 622430190 463
+memory usage:339734K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 622480438 464
+memory usage:341032K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 622557408 465
+memory usage:351547K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 622559185 466
+memory usage:351846K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 629187206 467
+memory usage:213237K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 629226953 468
+memory usage:248569K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 629231844 469
+memory usage:262074K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 632305231 470
+memory usage:227123K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 642633976 471
+memory usage:143695K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 642635480 472
+memory usage:161652K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 644385143 473
+memory usage:225603K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 646766811 474
+memory usage:145219K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 646968942 475
+memory usage:170061K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 647026138 476
+memory usage:199626K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 647386282 477
+memory usage:230494K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 647696946 478
+memory usage:253489K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 648174224 479
+memory usage:283729K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 648436218 480
+memory usage:298610K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 648476941 481
+memory usage:315580K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 648525827 482
+memory usage:323907K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 648526871 483
+memory usage:325083K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 648528156 484
+memory usage:329281K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 651673493 485
+memory usage:62922K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 654156600 486
+memory usage:138739K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 654251459 487
+memory usage:197263K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 654253039 488
+memory usage:204144K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 654278036 489
+memory usage:221564K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 654515815 490
+memory usage:251998K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 654531961 491
+memory usage:260997K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 655000349 492
+memory usage:303820K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 655128138 493
+memory usage:309997K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 655388340 494
+memory usage:324718K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 655389889 495
+memory usage:327233K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 657936127 496
+memory usage:355737K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 658013649 497
+memory usage:360804K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 658565219 498
+memory usage:584024K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 659898647 499
+memory usage:598937K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 659957658 500
+memory usage:602226K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 660097321 501
+memory usage:606326K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 660190807 502
+memory usage:609583K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 660343348 503
+memory usage:612884K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 660502039 504
+memory usage:614744K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 660605544 505
+memory usage:616861K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 660911000 506
+memory usage:623812K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 661048610 507
+memory usage:629563K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 661049395 508
+memory usage:629809K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 665198680 509
+memory usage:634753K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 665297127 510
+memory usage:638033K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 665337174 511
+memory usage:640344K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 665549886 512
+memory usage:644624K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 665594541 513
+memory usage:646529K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 665652330 514
+memory usage:646897K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 666106609 515
+memory usage:649256K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 666523063 516
+memory usage:653606K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 666537726 517
+memory usage:654508K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 666547862 518
+memory usage:657125K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 666579695 519
+memory usage:659120K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 666592853 520
+memory usage:659501K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 666913019 521
+memory usage:663773K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 666937304 522
+memory usage:664440K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 667428324 523
+memory usage:666783K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 698000279 524
+memory usage:61050K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 698004311 525
+memory usage:82214K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 698388698 526
+memory usage:149995K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 698392879 527
+memory usage:170889K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 698397117 528
+memory usage:193191K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 698458854 529
+memory usage:198475K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 698507494 530
+memory usage:206114K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 698522200 531
+memory usage:227254K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 698571014 532
+memory usage:240775K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 698947344 533
+memory usage:254377K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 699458726 534
+memory usage:258220K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 699475601 535
+memory usage:272171K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 699483912 536
+memory usage:272322K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 699484570 537
+memory usage:273567K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 699485492 538
+memory usage:273575K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 699542677 539
+memory usage:280784K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 699743744 540
+memory usage:294780K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 700099528 541
+memory usage:295985K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 700422864 542
+memory usage:278114K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 700423106 543
+memory usage:282300K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 700497717 544
+memory usage:286916K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 700572611 545
+memory usage:263106K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 700574668 546
+memory usage:264204K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 700721184 547
+memory usage:285233K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 700801372 548
+memory usage:289497K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 700802681 549
+memory usage:289972K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 700885365 550
+memory usage:284516K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 700987067 551
+memory usage:287969K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 700987774 552
+memory usage:290693K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 700988892 553
+memory usage:291696K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 700989865 554
+memory usage:292032K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 700995619 555
+memory usage:293494K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 700997331 556
+memory usage:293752K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 700998292 557
+memory usage:293838K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 701247827 558
+memory usage:310034K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 701248450 559
+memory usage:311549K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 701248997 560
+memory usage:312324K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 701284721 561
+memory usage:315035K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 701293633 562
+memory usage:322392K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 701303960 563
+memory usage:330293K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 701317058 564
+memory usage:331456K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 701318068 565
+memory usage:331599K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 701325196 566
+memory usage:339038K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 702105249 567
+memory usage:329678K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 702106640 568
+memory usage:330305K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 702888163 569
+memory usage:342310K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 703345031 570
+memory usage:344596K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 703553295 571
+memory usage:348626K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 703727160 572
+memory usage:350969K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 703728604 573
+memory usage:351506K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 703740102 574
+memory usage:354664K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 703743831 575
+memory usage:355610K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 703744666 576
+memory usage:355680K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 703752616 577
+memory usage:356605K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 703776575 578
+memory usage:361746K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 703790859 579
+memory usage:363778K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 703799594 580
+memory usage:365580K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 703882523 581
+memory usage:371912K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 703891444 582
+memory usage:372805K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 703922955 583
+memory usage:377602K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 704076851 584
+memory usage:383451K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 704082603 585
+memory usage:386306K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 704093063 586
+memory usage:389533K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 704168560 587
+memory usage:392929K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 704171742 588
+memory usage:393379K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 704172359 589
+memory usage:393584K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 704328926 590
+memory usage:396636K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 705219896 591
+memory usage:400920K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 705375597 592
+memory usage:404881K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 705643397 593
+memory usage:408186K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 705701713 594
+memory usage:409333K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 706008253 595
+memory usage:414875K/2353971K + 2509111K/2509119K
+
+Returns the same first vertex result elapsed time: 706009136 596
+memory usage:415387K/2353971K + 2509111K/2509119K
+
+Returns the same first vertex result elapsed time: 706009687 597
+memory usage:415416K/2353971K + 2509111K/2509119K
+
+Returns the same first vertex result elapsed time: 706062645 598
+memory usage:419475K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 706095809 599
+memory usage:419479K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 706097648 600
+memory usage:419700K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 706240565 601
+memory usage:424800K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 706272633 602
+memory usage:425160K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 706377036 603
+memory usage:430944K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 706380882 604
+memory usage:432717K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 706382070 605
+memory usage:432902K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 706384103 606
+memory usage:434462K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 706556306 607
+memory usage:435240K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 706581464 608
+memory usage:442241K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 706582372 609
+memory usage:443191K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 706650908 610
+memory usage:448552K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 706887795 611
+memory usage:458706K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 707130175 612
+memory usage:463740K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 708309153 613
+memory usage:469696K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 708311473 614
+memory usage:470953K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 708443336 615
+memory usage:471592K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 708662658 616
+memory usage:476233K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 708665155 617
+memory usage:478998K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 708665966 618
+memory usage:479338K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 708666745 619
+memory usage:479543K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 708667794 620
+memory usage:479870K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 708755385 621
+memory usage:484581K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 709051293 622
+memory usage:487702K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 709176890 623
+memory usage:488009K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 709299664 624
+memory usage:491884K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 709788706 625
+memory usage:499200K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 710017170 626
+memory usage:501936K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 710562875 627
+memory usage:503627K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 710628001 628
+memory usage:504123K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 711107520 629
+memory usage:504971K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 711121452 630
+memory usage:505520K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 711416370 631
+memory usage:506626K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 712618939 632
+memory usage:512237K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 712619366 633
+memory usage:512262K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 712664777 634
+memory usage:513957K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 712812589 635
+memory usage:515473K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 712843053 636
+memory usage:515612K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 712867411 637
+memory usage:514084K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 713185229 638
+memory usage:512491K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 713337540 639
+memory usage:513273K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 715927689 640
+memory usage:236883K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 715928276 641
+memory usage:242692K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 715928587 642
+memory usage:243793K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 715928742 643
+memory usage:243904K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 715930622 644
+memory usage:253054K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 715931592 645
+memory usage:257093K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 715935036 646
+memory usage:257949K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 715936589 647
+memory usage:257949K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 715937835 648
+memory usage:257974K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 715939249 649
+memory usage:257974K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 715940776 650
+memory usage:257974K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 715940909 651
+memory usage:258105K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 715941079 652
+memory usage:258105K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 715941309 653
+memory usage:258105K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 716576826 654
+memory usage:363405K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 716577902 655
+memory usage:373321K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 716581333 656
+memory usage:386289K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 716611787 657
+memory usage:461000K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 716615248 658
+memory usage:471613K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 717005332 659
+memory usage:528957K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 717041234 660
+memory usage:550805K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 717054566 661
+memory usage:559775K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 717315974 662
+memory usage:613756K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 717339418 663
+memory usage:624689K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 717362504 664
+memory usage:639385K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 717375613 665
+memory usage:641622K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 717375711 666
+memory usage:641998K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 717486674 667
+memory usage:656474K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 717563959 668
+memory usage:663052K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 717766928 669
+memory usage:628572K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 717939160 670
+memory usage:643747K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 717949278 671
+memory usage:654508K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 717957350 672
+memory usage:657047K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 718320383 673
+memory usage:637149K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 718344869 674
+memory usage:666451K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 718345816 675
+memory usage:670912K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 718346910 676
+memory usage:674742K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 718430613 677
+memory usage:741244K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 719564423 678
+memory usage:656125K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 719640232 679
+memory usage:720994K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 723201632 680
+memory usage:189689K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 723524083 681
+memory usage:289947K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 726997835 682
+memory usage:468168K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 727011010 683
+memory usage:515035K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 727016305 684
+memory usage:535814K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 727338833 685
+memory usage:593260K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 728128084 686
+memory usage:706113K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 728147786 687
+memory usage:718364K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 728342448 688
+memory usage:827863K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 728411115 689
+memory usage:881573K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 728413554 690
+memory usage:891113K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 728425549 691
+memory usage:897515K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 728439435 692
+memory usage:907841K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 728439875 693
+memory usage:908423K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 728465855 694
+memory usage:963801K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 728815893 695
+memory usage:974163K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 729848361 696
+memory usage:1000124K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 729907822 697
+memory usage:1012903K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 729907920 698
+memory usage:1013006K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 729908040 699
+memory usage:1013354K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 729913929 700
+memory usage:1040113K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 729942596 701
+memory usage:1074429K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 729972809 702
+memory usage:1081147K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 730187204 703
+memory usage:1096667K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 730293045 704
+memory usage:1133260K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 730405092 705
+memory usage:1178923K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 730427825 706
+memory usage:1208008K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 730434930 707
+memory usage:1215049K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 730435751 708
+memory usage:1216610K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 880787552 709
+memory usage:159313K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 880826299 710
+memory usage:210157K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 880875806 711
+memory usage:223305K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 880899756 712
+memory usage:333172K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 880918166 713
+memory usage:420257K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 880928934 714
+memory usage:438263K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 881353326 715
+memory usage:465477K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 881425916 716
+memory usage:471097K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 881436827 717
+memory usage:485629K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 881437495 718
+memory usage:489181K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 881483804 719
+memory usage:502259K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 881541122 720
+memory usage:505319K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 881668591 721
+memory usage:520994K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 882119128 722
+memory usage:567500K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 882790591 723
+memory usage:648105K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 883422167 724
+memory usage:698839K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 894687714 725
+memory usage:127156K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 894751440 726
+memory usage:229085K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 894766432 727
+memory usage:251437K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 894769573 728
+memory usage:256036K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 894771774 729
+memory usage:269774K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 895638272 730
+memory usage:383352K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 895639674 731
+memory usage:385351K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 895641086 732
+memory usage:385851K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 895642043 733
+memory usage:387047K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 896369978 734
+memory usage:506052K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 896378573 735
+memory usage:576065K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 896378772 736
+memory usage:576405K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 896387722 737
+memory usage:587534K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 896473018 738
+memory usage:632487K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 896523779 739
+memory usage:661753K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 896524419 740
+memory usage:669630K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 896638477 741
+memory usage:712900K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 896653630 742
+memory usage:732471K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 896730257 743
+memory usage:777445K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 896746810 744
+memory usage:800944K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 896786324 745
+memory usage:805801K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 897046929 746
+memory usage:889540K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 897047309 747
+memory usage:890290K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 897073242 748
+memory usage:892817K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 897129368 749
+memory usage:960700K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 897178620 750
+memory usage:978440K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 897188241 751
+memory usage:983732K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 897465714 752
+memory usage:999043K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 898357107 753
+memory usage:1003331K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 899792059 754
+memory usage:1007587K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 903425960 755
+memory usage:1022107K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 903861803 756
+memory usage:1024258K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 904183373 757
+memory usage:1028079K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 904184923 758
+memory usage:1029136K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 904898552 759
+memory usage:1031417K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 904902703 760
+memory usage:1032982K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 905210699 761
+memory usage:1037455K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 905211826 762
+memory usage:1037553K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 908079711 763
+memory usage:1043800K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 908950034 764
+memory usage:723136K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 908953576 765
+memory usage:724914K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 909995450 766
+memory usage:303996K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 910000812 767
+memory usage:308903K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 910038092 768
+memory usage:319500K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 910199657 769
+memory usage:337231K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 910330139 770
+memory usage:353222K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 910414074 771
+memory usage:357240K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 910673031 772
+memory usage:354119K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 910859520 773
+memory usage:365838K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 923488893 774
+memory usage:171872K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 923504273 775
+memory usage:191406K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 923715899 776
+memory usage:255799K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 923716791 777
+memory usage:260927K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 924108307 778
+memory usage:301514K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 924141771 779
+memory usage:308965K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 925660965 780
+memory usage:342495K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 926343541 781
+memory usage:374800K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 926486401 782
+memory usage:379539K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 926502011 783
+memory usage:381759K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 926533461 784
+memory usage:385720K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 926534497 785
+memory usage:386232K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 926538123 786
+memory usage:393240K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 926871384 787
+memory usage:401113K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 926919074 788
+memory usage:403992K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 926919295 789
+memory usage:404566K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 926941857 790
+memory usage:405655K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 926942218 791
+memory usage:406409K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 927598410 792
+memory usage:416681K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 927741753 793
+memory usage:427872K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 927747680 794
+memory usage:428457K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 928365657 795
+memory usage:434790K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 928372627 796
+memory usage:435695K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 928457695 797
+memory usage:438460K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 928489083 798
+memory usage:441634K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 928490645 799
+memory usage:441905K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 928564539 800
+memory usage:444485K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 928817023 801
+memory usage:447643K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 928831771 802
+memory usage:448798K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 928838141 803
+memory usage:448839K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 929258252 804
+memory usage:463642K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 929402703 805
+memory usage:465235K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 929406507 806
+memory usage:465788K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 929407346 807
+memory usage:465801K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 929752729 808
+memory usage:473690K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 931325853 809
+memory usage:479862K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 931326147 810
+memory usage:480030K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 932192219 811
+memory usage:481517K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 932207804 812
+memory usage:482562K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 932451709 813
+memory usage:487280K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 932452057 814
+memory usage:487305K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 932594388 815
+memory usage:491180K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 932594493 816
+memory usage:491212K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 932833382 817
+memory usage:493281K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933011026 818
+memory usage:494358K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933020467 819
+memory usage:495419K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933061762 820
+memory usage:615219K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933062187 821
+memory usage:617500K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933069537 822
+memory usage:618352K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933071190 823
+memory usage:618586K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933071752 824
+memory usage:618897K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933155293 825
+memory usage:619900K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933157946 826
+memory usage:620736K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933160586 827
+memory usage:620736K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933161089 828
+memory usage:620740K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933161482 829
+memory usage:620740K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933163738 830
+memory usage:620916K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933167022 831
+memory usage:620978K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933170889 832
+memory usage:623034K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933171647 833
+memory usage:623046K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933172136 834
+memory usage:623050K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933172663 835
+memory usage:623054K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933173168 836
+memory usage:623071K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933173833 837
+memory usage:623075K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933174143 838
+memory usage:623075K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933174362 839
+memory usage:623079K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933174626 840
+memory usage:623091K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933174856 841
+memory usage:623128K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933175062 842
+memory usage:623398K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933175558 843
+memory usage:623468K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933175767 844
+memory usage:623480K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933175938 845
+memory usage:623505K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933176128 846
+memory usage:623587K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933176365 847
+memory usage:623644K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933176542 848
+memory usage:623644K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933176705 849
+memory usage:623656K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933177106 850
+memory usage:623902K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933177224 851
+memory usage:623988K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933180766 852
+memory usage:661192K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933181317 853
+memory usage:664608K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933231381 854
+memory usage:760557K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933283636 855
+memory usage:944132K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933285605 856
+memory usage:954175K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933288241 857
+memory usage:965545K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933288615 858
+memory usage:966340K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933313635 859
+memory usage:976289K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933316034 860
+memory usage:978427K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933328582 861
+memory usage:980389K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933393334 862
+memory usage:1047429K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933420971 863
+memory usage:1108074K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933423090 864
+memory usage:1122410K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 933430700 865
+memory usage:1130586K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 934202995 866
+memory usage:1167212K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 934251402 867
+memory usage:1186603K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 935229197 868
+memory usage:1195638K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 935340371 869
+memory usage:1285525K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 935341139 870
+memory usage:1286447K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 935344190 871
+memory usage:1300426K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 935345039 872
+memory usage:1301065K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 935495488 873
+memory usage:1386479K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 936769495 874
+memory usage:1412558K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 936773391 875
+memory usage:1416503K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 936820461 876
+memory usage:1424674K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 936869545 877
+memory usage:1432801K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 936871938 878
+memory usage:1436860K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 936872906 879
+memory usage:1439633K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 936873119 880
+memory usage:1439948K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 936873502 881
+memory usage:1440104K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 936894130 882
+memory usage:1447813K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 936906591 883
+memory usage:1465417K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 937236920 884
+memory usage:1467297K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 937620528 885
+memory usage:1469116K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 937795717 886
+memory usage:1471803K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 937827389 887
+memory usage:1473032K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 938187859 888
+memory usage:1504382K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 938188763 889
+memory usage:1511694K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 938188941 890
+memory usage:1511706K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 938189057 891
+memory usage:1511714K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 938376752 892
+memory usage:1515622K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 939020730 893
+memory usage:1518178K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 939020858 894
+memory usage:1518202K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 939232543 895
+memory usage:1520504K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946094575 896
+memory usage:1527623K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946097475 897
+memory usage:1544761K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946097626 898
+memory usage:1544769K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946097783 899
+memory usage:1544781K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946097932 900
+memory usage:1544781K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946098079 901
+memory usage:1544781K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946098239 902
+memory usage:1544781K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946098388 903
+memory usage:1544781K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946098537 904
+memory usage:1544781K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946098696 905
+memory usage:1544781K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946099085 906
+memory usage:1546067K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946099275 907
+memory usage:1546067K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946121287 908
+memory usage:1554264K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946122152 909
+memory usage:1554264K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946122978 910
+memory usage:1554264K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946123890 911
+memory usage:1554272K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946124818 912
+memory usage:1554284K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946133384 913
+memory usage:1567109K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946157225 914
+memory usage:1573306K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 946250704 915
+memory usage:1595871K/2353971K + 2509082K/2509119K
+
+Returns the same first vertex result elapsed time: 1122384833 916
+memory usage:93642K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122389335 917
+memory usage:215760K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122390208 918
+memory usage:233906K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122390571 919
+memory usage:244273K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122395571 920
+memory usage:317566K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122407718 921
+memory usage:421040K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122408072 922
+memory usage:421040K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122408602 923
+memory usage:421040K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122411198 924
+memory usage:484671K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122439022 925
+memory usage:556146K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122439200 926
+memory usage:558641K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122439359 927
+memory usage:558673K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122439482 928
+memory usage:558997K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122439605 929
+memory usage:559005K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122439762 930
+memory usage:559042K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122440209 931
+memory usage:571924K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122441456 932
+memory usage:585031K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122442608 933
+memory usage:594931K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122443977 934
+memory usage:595263K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122444231 935
+memory usage:599179K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122444462 936
+memory usage:599199K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122447946 937
+memory usage:611856K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122460539 938
+memory usage:698408K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122461029 939
+memory usage:700272K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122462103 940
+memory usage:701919K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122462192 941
+memory usage:701919K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122462299 942
+memory usage:701935K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122463163 943
+memory usage:705290K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122463210 944
+memory usage:705290K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122464290 945
+memory usage:709353K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122464477 946
+memory usage:709931K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122464680 947
+memory usage:709943K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122464884 948
+memory usage:709943K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122465053 949
+memory usage:709947K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122465249 950
+memory usage:709955K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122465460 951
+memory usage:709959K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122465806 952
+memory usage:710475K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122466120 953
+memory usage:715333K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122467347 954
+memory usage:723648K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122467506 955
+memory usage:723648K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122467681 956
+memory usage:723648K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122467858 957
+memory usage:723648K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122468103 958
+memory usage:723652K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122468811 959
+memory usage:725008K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122468958 960
+memory usage:725286K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122468996 961
+memory usage:725520K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122469021 962
+memory usage:725520K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122469389 963
+memory usage:728154K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122469485 964
+memory usage:728186K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122469779 965
+memory usage:728604K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122470011 966
+memory usage:728604K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122470229 967
+memory usage:728604K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122470432 968
+memory usage:728604K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122471079 969
+memory usage:730599K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122471231 970
+memory usage:730652K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122471385 971
+memory usage:731746K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122473073 972
+memory usage:736546K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122474925 973
+memory usage:738127K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122476740 974
+memory usage:738127K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122478619 975
+memory usage:738127K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122480446 976
+memory usage:738136K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122482136 977
+memory usage:738136K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122484069 978
+memory usage:738156K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122485699 979
+memory usage:738156K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122487562 980
+memory usage:738160K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122489354 981
+memory usage:738160K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122491069 982
+memory usage:738168K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122492841 983
+memory usage:738168K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122493840 984
+memory usage:739291K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122494626 985
+memory usage:739299K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122496328 986
+memory usage:739311K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122497064 987
+memory usage:739311K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122497824 988
+memory usage:739311K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122499673 989
+memory usage:739311K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122501387 990
+memory usage:739315K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122503081 991
+memory usage:739315K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122508186 992
+memory usage:739635K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122509771 993
+memory usage:739688K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122510263 994
+memory usage:739704K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122510723 995
+memory usage:739704K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122511342 996
+memory usage:739704K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122511959 997
+memory usage:739704K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122512740 998
+memory usage:739704K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122512816 999
+memory usage:740155K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122512889 1000
+memory usage:740155K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122512959 1001
+memory usage:740155K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122513119 1002
+memory usage:740175K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122513221 1003
+memory usage:740175K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122513521 1004
+memory usage:740687K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122518384 1005
+memory usage:743489K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122518506 1006
+memory usage:743510K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122518727 1007
+memory usage:743669K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122518824 1008
+memory usage:743669K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122518984 1009
+memory usage:743669K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122519542 1010
+memory usage:744529K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122519659 1011
+memory usage:744542K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122519762 1012
+memory usage:744542K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122519889 1013
+memory usage:744542K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122520281 1014
+memory usage:748904K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122520675 1015
+memory usage:748953K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122520941 1016
+memory usage:748969K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122521315 1017
+memory usage:748969K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122521661 1018
+memory usage:749010K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122523559 1019
+memory usage:749080K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122524364 1020
+memory usage:753090K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122525006 1021
+memory usage:753180K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122525942 1022
+memory usage:753201K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122526636 1023
+memory usage:753201K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122527329 1024
+memory usage:753201K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122527712 1025
+memory usage:754974K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122527902 1026
+memory usage:755015K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122528025 1027
+memory usage:755019K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122528211 1028
+memory usage:755019K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122529749 1029
+memory usage:791150K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122530134 1030
+memory usage:791257K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122530561 1031
+memory usage:791265K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122531009 1032
+memory usage:791265K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122531312 1033
+memory usage:791265K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122531881 1034
+memory usage:791265K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122532450 1035
+memory usage:791281K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122534566 1036
+memory usage:807739K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122534653 1037
+memory usage:807763K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122534738 1038
+memory usage:807763K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122534825 1039
+memory usage:807763K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122545618 1040
+memory usage:828416K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122607697 1041
+memory usage:958730K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122681753 1042
+memory usage:1036910K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122684934 1043
+memory usage:1038041K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122731530 1044
+memory usage:1095450K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122748890 1045
+memory usage:1122115K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122765503 1046
+memory usage:1155231K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122765612 1047
+memory usage:1155280K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122772624 1048
+memory usage:1168592K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1122939769 1049
+memory usage:1199665K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1123584447 1050
+memory usage:1210454K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1123625926 1051
+memory usage:1220542K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1123633934 1052
+memory usage:1221197K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1123642024 1053
+memory usage:1224634K/2353971K + 2509086K/2509119K
+
+Returns the same first vertex result elapsed time: 1290612319 1054
+memory usage:98930K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1290625430 1055
+memory usage:191770K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292404053 1056
+memory usage:311533K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292406553 1057
+memory usage:315854K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292512649 1058
+memory usage:370352K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292542506 1059
+memory usage:398929K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292579176 1060
+memory usage:406056K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292589783 1061
+memory usage:410738K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292661048 1062
+memory usage:450408K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292683267 1063
+memory usage:507101K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292711664 1064
+memory usage:617222K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292744945 1065
+memory usage:689242K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292745050 1066
+memory usage:689328K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292745769 1067
+memory usage:691466K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292746962 1068
+memory usage:707866K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292752077 1069
+memory usage:751509K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292754778 1070
+memory usage:767983K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292759454 1071
+memory usage:770682K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292759728 1072
+memory usage:779509K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292761240 1073
+memory usage:790122K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292761674 1074
+memory usage:795357K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292762456 1075
+memory usage:810373K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292763232 1076
+memory usage:813817K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1292763741 1077
+memory usage:819220K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1294103076 1078
+memory usage:922345K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1294106802 1079
+memory usage:931508K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1294162811 1080
+memory usage:959815K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1294208995 1081
+memory usage:964874K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1294235450 1082
+memory usage:967389K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1294244702 1083
+memory usage:975138K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1294245029 1084
+memory usage:975142K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1294245360 1085
+memory usage:975155K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1294245641 1086
+memory usage:975155K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1294245797 1087
+memory usage:975163K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1294245944 1088
+memory usage:975163K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1294317911 1089
+memory usage:983375K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1294321949 1090
+memory usage:1001971K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1410911647 1091
+memory usage:93503K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1410965399 1092
+memory usage:176717K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1411725971 1093
+memory usage:197402K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1411734377 1094
+memory usage:296787K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1411734454 1095
+memory usage:296804K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1411734542 1096
+memory usage:296808K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1411734967 1097
+memory usage:301223K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1411742829 1098
+memory usage:342654K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1411796103 1099
+memory usage:460918K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1411796275 1100
+memory usage:461529K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1411796420 1101
+memory usage:461623K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1411796791 1102
+memory usage:461713K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1411799574 1103
+memory usage:485867K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1440532162 1104
+memory usage:67457K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1442927753 1105
+memory usage:328044K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443044853 1106
+memory usage:487108K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443045634 1107
+memory usage:528732K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443065149 1108
+memory usage:543166K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443065319 1109
+memory usage:543477K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443065451 1110
+memory usage:543490K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443065592 1111
+memory usage:543596K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443065890 1112
+memory usage:545148K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443066014 1113
+memory usage:545153K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443066460 1114
+memory usage:548405K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443067055 1115
+memory usage:549330K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443067951 1116
+memory usage:554930K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443068527 1117
+memory usage:559378K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443072667 1118
+memory usage:577286K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443072920 1119
+memory usage:578232K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443075058 1120
+memory usage:625221K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443075323 1121
+memory usage:626425K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443080530 1122
+memory usage:711622K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443080748 1123
+memory usage:711622K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443080943 1124
+memory usage:711622K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443081168 1125
+memory usage:711716K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443083854 1126
+memory usage:711725K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443084065 1127
+memory usage:711725K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443084351 1128
+memory usage:711725K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443091692 1129
+memory usage:759123K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443091758 1130
+memory usage:759123K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443092301 1131
+memory usage:762613K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443093796 1132
+memory usage:777003K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443094665 1133
+memory usage:784699K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443095409 1134
+memory usage:784711K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443096153 1135
+memory usage:784732K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443101685 1136
+memory usage:813268K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443102178 1137
+memory usage:813285K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443102730 1138
+memory usage:813297K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443103276 1139
+memory usage:813297K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443106213 1140
+memory usage:849674K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443106602 1141
+memory usage:849674K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443107059 1142
+memory usage:853696K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443107937 1143
+memory usage:862044K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443110451 1144
+memory usage:891039K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443115395 1145
+memory usage:891977K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443115551 1146
+memory usage:892895K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443118086 1147
+memory usage:905969K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443120393 1148
+memory usage:928104K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443120464 1149
+memory usage:928104K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443123704 1150
+memory usage:953786K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443130594 1151
+memory usage:1009020K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443131365 1152
+memory usage:1011232K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443183270 1153
+memory usage:1078026K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443190029 1154
+memory usage:1080770K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443192340 1155
+memory usage:1121787K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443193208 1156
+memory usage:1143115K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443193483 1157
+memory usage:1143123K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443193789 1158
+memory usage:1143123K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443194093 1159
+memory usage:1143132K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443194364 1160
+memory usage:1143132K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443194954 1161
+memory usage:1156034K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443195380 1162
+memory usage:1156075K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443195771 1163
+memory usage:1156186K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443196149 1164
+memory usage:1156186K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443196529 1165
+memory usage:1156186K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443196787 1166
+memory usage:1156358K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443196908 1167
+memory usage:1159077K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443197003 1168
+memory usage:1159077K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443197095 1169
+memory usage:1159077K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443202266 1170
+memory usage:1169145K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443245378 1171
+memory usage:1236385K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443245753 1172
+memory usage:1236385K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443246109 1173
+memory usage:1236406K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443246485 1174
+memory usage:1236410K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443246861 1175
+memory usage:1236410K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443247233 1176
+memory usage:1236414K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443247580 1177
+memory usage:1236414K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443247957 1178
+memory usage:1236426K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443248299 1179
+memory usage:1236426K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443251036 1180
+memory usage:1256603K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443251151 1181
+memory usage:1258717K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443252410 1182
+memory usage:1262514K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443257981 1183
+memory usage:1264369K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443258445 1184
+memory usage:1264369K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443258830 1185
+memory usage:1264381K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443258900 1186
+memory usage:1265287K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443258945 1187
+memory usage:1265295K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443259046 1188
+memory usage:1268285K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443259085 1189
+memory usage:1268285K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443261854 1190
+memory usage:1302532K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443312520 1191
+memory usage:1333792K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443312706 1192
+memory usage:1335173K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443312883 1193
+memory usage:1340887K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443312940 1194
+memory usage:1340887K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443313000 1195
+memory usage:1340887K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443313531 1196
+memory usage:1341714K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443313780 1197
+memory usage:1341726K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443313967 1198
+memory usage:1346584K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443314505 1199
+memory usage:1350983K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443314621 1200
+memory usage:1351049K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443314721 1201
+memory usage:1351639K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443314821 1202
+memory usage:1351639K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443314920 1203
+memory usage:1351643K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443315237 1204
+memory usage:1355747K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443315413 1205
+memory usage:1362481K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443317061 1206
+memory usage:1404022K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443333762 1207
+memory usage:1409269K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443335119 1208
+memory usage:1431298K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443335640 1209
+memory usage:1431298K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443336161 1210
+memory usage:1431298K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443338797 1211
+memory usage:1439969K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443365438 1212
+memory usage:1462009K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443365555 1213
+memory usage:1466122K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443492664 1214
+memory usage:1489432K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443493182 1215
+memory usage:1489432K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443493733 1216
+memory usage:1489432K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443494258 1217
+memory usage:1489432K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443494813 1218
+memory usage:1489432K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443503622 1219
+memory usage:1491267K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443507429 1220
+memory usage:1498324K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443507588 1221
+memory usage:1498324K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443508014 1222
+memory usage:1503952K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443508289 1223
+memory usage:1507106K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443508710 1224
+memory usage:1509842K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443508876 1225
+memory usage:1509842K/2353971K + 2509086K/2509123K
+
+Returns the same first vertex result elapsed time: 1443508962 1226
+memory usage:1509908K/2353971K + 2509086K/2509123K
+
+End of program! elapsed time: 1443516387 1226
+memory usage:1515266K/2353971K + 2509086K/2509123K
+

@@ -1,0 +1,51 @@
+﻿生成启动时间为 2022/3/24 9:18:21。
+     1>项目“E:\experimental\experiment3\compare2\MC_TOPGPM-V2.0\MC_TOPGPM\MC_TOPGPM.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (MC_TOPGPM_FUZZY.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I"D:\Program Files\MySQL\MySQL Connector C 6.1\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt MC_TOPGPM.cpp TopologicalOrder_matching.cpp block_read.cpp txt_operation.cpp
+         MC_TOPGPM.cpp
+     1>e:\experimental\experiment3\compare2\mc_topgpm-v2.0\mc_topgpm\TopologicalOrder_matching.h(10): warning C4005: “MAX”: 宏重定义
+         e:\experimental\experiment3\compare2\mc_topgpm-v2.0\mc_topgpm\pattern_graph_read.h(8): note: 参见“MAX”的前一个定义
+     1>MC_TOPGPM.cpp(63): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>MC_TOPGPM.cpp(98): warning C4244: “参数”: 从“double”转换到“time_t”，可能丢失数据
+     1>MC_TOPGPM.cpp(118): warning C4244: “参数”: 从“double”转换到“time_t”，可能丢失数据
+     1>MC_TOPGPM.cpp(128): warning C4244: “参数”: 从“double”转换到“time_t”，可能丢失数据
+     1>MC_TOPGPM.cpp(130): warning C4244: “参数”: 从“double”转换到“time_t”，可能丢失数据
+         TopologicalOrder_matching.cpp
+     1>e:\experimental\experiment3\compare2\mc_topgpm-v2.0\mc_topgpm\TopologicalOrder_matching.h(10): warning C4005: “MAX”: 宏重定义
+         e:\experimental\experiment3\compare2\mc_topgpm-v2.0\mc_topgpm\pattern_graph_read.h(8): note: 参见“MAX”的前一个定义
+     1>TopologicalOrder_matching.cpp(83): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>TopologicalOrder_matching.cpp(150): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>TopologicalOrder_matching.cpp(182): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>TopologicalOrder_matching.cpp(248): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>TopologicalOrder_matching.cpp(317): warning C4244: “参数”: 从“double”转换到“time_t”，可能丢失数据
+     1>TopologicalOrder_matching.cpp(359): warning C4244: “参数”: 从“double”转换到“time_t”，可能丢失数据
+     1>TopologicalOrder_matching.cpp(394): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>TopologicalOrder_matching.cpp(423): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+         block_read.cpp
+     1>block_read.cpp(20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>block_read.cpp(8): warning C4101: “flag”: 未引用的局部变量
+     1>block_read.cpp(52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>block_read.cpp(41): warning C4101: “flag”: 未引用的局部变量
+         txt_operation.cpp
+     1>txt_operation.cpp(17): warning C4101: “flag”: 未引用的局部变量
+     1>txt_operation.cpp(50): warning C4101: “flag”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\experimental\experiment3\compare2\MC_TOPGPM-V2.0\x64\Release\MC_TOPGPM.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"D:\Program Files\MySQL\MySQL Connector C 6.1\lib" libmysql.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\experimental\experiment3\compare2\MC_TOPGPM-V2.0\x64\Release\MC_TOPGPM.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\experimental\experiment3\compare2\MC_TOPGPM-V2.0\x64\Release\MC_TOPGPM.lib" /MACHINE:X64 x64\Release\block_read.obj
+         x64\Release\dat_operation.obj
+         x64\Release\MC_TOPGPM.obj
+         x64\Release\pattern_graph_read.obj
+         x64\Release\TopologicalOrder_matching.obj
+         x64\Release\txt_operation.obj
+           正在创建库 E:\experimental\experiment3\compare2\MC_TOPGPM-V2.0\x64\Release\MC_TOPGPM.lib 和对象 E:\experimental\experiment3\compare2\MC_TOPGPM-V2.0\x64\Release\MC_TOPGPM.exp
+         正在生成代码
+         23 of 1218 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           1 functions had inline decision re-evaluated but remain unchanged
+         已完成代码的生成
+         MC_TOPGPM.vcxproj -> E:\experimental\experiment3\compare2\MC_TOPGPM-V2.0\x64\Release\MC_TOPGPM.exe
+     1>已完成生成项目“E:\experimental\experiment3\compare2\MC_TOPGPM-V2.0\MC_TOPGPM\MC_TOPGPM.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.40
